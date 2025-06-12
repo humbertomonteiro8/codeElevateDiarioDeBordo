@@ -17,6 +17,7 @@ PROPOSITO (Ex: Reunião, Cliente, etc.)
 DISTANCIA (km)
 
 🛠️ Transformações realizadas
+
 Os dados são processados para gerar a tabela info_corridas_do_dia, agrupada pela data de início da corrida no formato yyyy-MM-dd, contendo:
 
 Coluna	Descrição
