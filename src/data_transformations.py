@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import pandas as pd
+from sqlalchemy import Date, Numeric, Integer
 
 
 def preprocess_dataframe(df_loader):
@@ -42,3 +43,16 @@ def generate_aggregation(df_preprocess):
 
     agrupado['VL_AVG_DIST'] = agrupado['VL_AVG_DIST'].round(1)
     return agrupado
+
+def set_dtype_mappings():
+    return {
+        'DT_REFE': Date(),
+        'QT_CORR': Integer(),
+        'QT_CORR_NEG': Integer(),
+        'QT_CORR_PESS': Integer(),
+        'VL_MAX_DIST': Numeric(10, 2),
+        'VL_MIN_DIST': Numeric(10, 2),
+        'VL_AVG_DIST': Numeric(10, 2),
+        'QT_CORR_REUNI': Integer(),
+        'QT_CORR_NAO_REUNI': Integer()
+    }
