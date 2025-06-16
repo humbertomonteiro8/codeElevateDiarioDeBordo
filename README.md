@@ -1,34 +1,82 @@
-# codeElevateDiarioDeBordo
+# 📘 Diário de Bordo – CodeElevate
 
-📊 info_transportes - Análise de uso de aplicativo de transporte privado
-Este projeto visa a análise de dados de corridas realizadas por meio de um aplicativo de transporte privado, com o objetivo de compreender padrões de uso pelos clientes. A partir do arquivo info_transportes.csv, geramos uma nova tabela chamada info_corridas_do_dia, com informações agregadas por data de início de corrida.
+Este projeto tem como objetivo processar dados de um aplicativo de transporte privado e gerar uma tabela agregada com informações consolidadas sobre as corridas, aplicando a **Arquitetura Medalhão** como estrutura de dados.
 
-📅 Dados de entrada
-O conjunto original inclui as seguintes colunas:
+---
 
-DATA_INICIO e DATA_FIM (formato: mm-dd-yyyy HH)
+## 🏗️ Arquitetura Medalhão
 
-CATEGORIA (Negócio ou Pessoal)
+O projeto segue a abordagem **Medallion Architecture**, dividida em três camadas:
 
-LOCAL_INICIO e LOCAL_FIM
+### 🥉 Bronze (Camada Bruta)
+- Dados originais, sem tratamento.
+- **Local**: `data/raw/info_transportes.csv`
+- **Ação**: Apenas leitura do CSV com os dados das corridas.
 
-PROPOSITO (Ex: Reunião, Cliente, etc.)
+### 🥈 Silver (Camada Processada)
+- Dados limpos, padronizados e prontos para agregação.
+- **Local**: `data/processed/info_transportes_clean.csv`
+- **Ação**: Tratamento de datas, remoção de nulos, padronização de strings.
 
-DISTANCIA (km)
+### 🥇 Gold (Camada de Negócio)
+- Dados agregados prontos para análise e consumo.
+- **Local**: `data/gold/info_corridas_do_dia.csv`
+- **Ação**: Agrupamento por data com métricas de negócio.
 
-🛠️ Transformações realizadas
+---
 
-Os dados são processados para gerar a tabela info_corridas_do_dia, agrupada pela data de início da corrida no formato yyyy-MM-dd, contendo:
+## 🧪 Exemplo da Tabela Final (`info_corridas_do_dia`)
 
-Coluna	Descrição
-DT_REFE	Data de referência (yyyy-MM-dd)
-QT_CORR	Total de corridas no dia
-QT_CORR_NEG	Corridas da categoria “Negócio”
-QT_CORR_PESS	Corridas da categoria “Pessoal”
-VL_MAX_DIST	Maior distância percorrida no dia
-VL_MIN_DIST	Menor distância percorrida no dia
-VL_AVG_DIST	Média das distâncias percorridas
-QT_CORR_REUNI	Corridas com propósito "Reunião"
-QT_CORR_NAO_REUNI	Corridas com propósito definido diferente de "Reunião"
-📈 Objetivo
-A análise tem como foco oferecer insights sobre como os clientes utilizam o serviço, diferenciando perfis de uso pessoal e profissional, além de mapear a natureza das viagens com base nos propósitos informados.
+| DT_REFE    | QT_CORR | QT_CORR_NEG | QT_CORR_PESS | VL_MAX_DIST | VL_MIN_DIST | VL_AVG_DIST | QT_CORR_REUNI | QT_CORR_NAO_REUNI |
+|------------|---------|-------------|--------------|-------------|-------------|-------------|----------------|--------------------|
+| 2022-01-01 | 20      | 12          | 8            | 2.2         | 0.7         | 1.1         | 6              | 10                 |
+
+---
+
+## 🧰 Estrutura do Projeto
+
+codeElevateDiarioDeBordo/
+│
+├── data/
+│ ├── raw/ # Camada Bronze
+│ ├── processed/ # Camada Silver
+│ └── gold/ # Camada Gold
+│
+├── src/ # Scripts principais
+│ ├── data_loader.py
+│ ├── data_transformations.py
+│ ├── process_execution.py
+│ └── utils.py
+│
+├── main.py # Script de execução
+├── requirements.txt
+└── README.md # Você está aqui
+
+
+---
+
+## 🚀 Execução
+
+### Requisitos
+- Python 3.9+
+- Oracle Database XE configurado localmente (ou adaptado)
+- Instale os pacotes:
+```bash
+pip install -r requirements.txt
+
+```bash
+python main.py
+
+Esse comando irá:
+
+    1.Carregar os dados da camada bronze.
+
+    2.Realizar o tratamento e salvar como silver.
+
+    3.Agregar os dados e salvar na camada gold.
+
+    4.Inserir os dados agregados no banco Oracle.
+
+✅ Testes
+Os testes automatizados estão no diretório testes/ e cobrem os módulos de carregamento, transformação e execução do pipeline.
+

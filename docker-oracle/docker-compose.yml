@@ -1,4 +1,3 @@
-version: '3.7'
 services:
   oracle-server-db:
     container_name: oracle-server-db

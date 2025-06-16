@@ -1,49 +1,65 @@
 # -*- coding: utf-8 -*-
-from src.data_transformations import preprocess_dataframe, generate_aggregation, set_dtype_mappings
-from src.data_loader import load_data
-from src.utils import oracle_connection
-from sqlalchemy import text
+import logging
 import pandas as pd
+from src.data_transformations import (
+    preprocess_dataframe,
+    generate_aggregation,
+    set_dtype_mappings,
+    get_bronze_dtype_mappings,
+    get_silver_dtype_mappings,
+)
+from src.data_loader import load_data
+from src.utils import save_to_oracle
 
-def run(input_path: str, output_path: str) -> None:
+logger = logging.getLogger(__name__)
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(name)s: %(message)s"
+)
+
+def run(input_path: str, silver_path: str, output_path: str) -> None:
     """
-    Execute the data loading and processing pipeline.
-
-    Parameters:
-        input_path (str): The path to the input CSV file.
-        output_path (str): The path to save the processed data.
+    Executa o pipeline de ETL com base na arquitetura medalhão.
     """
-    # Load data
-    df_loader = load_data(input_path)
-    df_preprocess = preprocess_dataframe(df_loader)
-    df_agg = generate_aggregation(df_preprocess)
+    # CAMADA BRONZE: Leitura do dado bruto
+    df_raw = load_data(input_path)
 
-    if df_agg is not None:
-        processed_data = df_agg
+    # Salvar camada BRONZE no Oracle
+    save_to_oracle(
+        df_raw,
+        table_name='INFO_TRANSPORTE_BRUTO',
+        dtype_mapping=get_bronze_dtype_mappings(),
+        if_exists='replace'
+    )
 
-        # Save processed data on csv
-        processed_data.to_csv(output_path, index=False)
-        print(f"Processed data saved to {output_path}")
+    # CAMADA SILVER: Limpeza e transformação
+    df_silver = preprocess_dataframe(df_raw)
+    df_silver.to_csv(silver_path, index=False)
+    logger.info("Silver data saved to %s", silver_path)
 
-        # Save processed data on oracle database
-        engine = oracle_connection()
-        # Antes de enviar ao banco, converta para datetime
-        processed_data["DT_REFE"] = pd.to_datetime(processed_data["DT_REFE"])
+    # Salvar camada SILVER no Oracle
+    save_to_oracle(
+        df_silver,
+        table_name='INFO_TRANSPORTE_LIMPO',
+        dtype_mapping=get_silver_dtype_mappings(),
+        if_exists='replace',
+        date_cols=['DT_REFE']
+    )
 
-        try:
-            # Inserção direta fora de transação explícita (Pandas cuida do commit)
-            processed_data.to_sql(
-                name='INFO_CORRIDAS_DO_DIA',
-                con=engine,
-                index=False,
-                if_exists='append',
-                dtype=set_dtype_mappings()
-            )
-            with engine.connect() as conn:
-                result = conn.execute(text("SELECT COUNT(*) FROM INFO_CORRIDAS_DO_DIA"))
-                print(f"Registros encontrados no Oracle: {result.scalar()}")
+    # CAMADA GOLD: Agregações de negócio
+    df_gold = generate_aggregation(df_silver)
 
-        except Exception as e:
-            print(f"Erro ao inserir dados: {e}")
+    if df_gold is not None:
+        df_gold.to_csv(output_path, index=False)
+        logger.info("Gold data saved to %s", output_path)
+
+        # Salvar camada GOLD no Oracle
+        save_to_oracle(
+            df_gold,
+            table_name='INFO_CORRIDAS_DO_DIA',
+            dtype_mapping=set_dtype_mappings(),
+            if_exists='replace',
+            date_cols=['DT_REFE']
+        )
     else:
-        print("Data loading failed. No processing performed.")
+        logger.error("Falha no processamento. Nenhum dado gerado.")

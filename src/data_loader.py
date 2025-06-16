@@ -1,20 +1,9 @@
 # -*- coding: utf-8 -*-
 import pandas as pd
 
-
-def load_data(file_path):
-    """
-    Load data from a CSV file into a pandas DataFrame.
-
-    Parameters:
-        file_path (str): The path to the CSV file.
-
-    Returns:
-        pd.DataFrame: The loaded data as a DataFrame.
-    """
+def load_data(file_path: str) -> pd.DataFrame:
     try:
-        data = pd.read_csv(file_path, sep=';', encoding='utf-8')
-        return data
+        return pd.read_csv(file_path, sep=';', encoding='utf-8')
     except Exception as ex:
-        print(f"Error loading data: {ex}")
-        return None
+        print(f"Erro ao carregar dados: {ex}")
+        return pd.DataFrame()
