@@ -11,9 +11,7 @@ Este projeto tem como objetivo processar e analisar dados de um aplicativo de tr
 3. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 4. [Como Rodar o Projeto](#como-rodar-o-projeto)
 5. [Testes](#testes)
-6. [Licença](#licença)
-7. [Contribuições](#contribuições)
-8. [Autores](#autores)
+6. [Autores](#autores)
 
 ---
 
@@ -104,7 +102,7 @@ O projeto segue a abordagem **Medallion Architecture**, dividida em três camada
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/codeElevateDiarioDeBordo.git
+   git clone https://github.com/humbertomonteiro8/codeElevateDiarioDeBordo.git
    cd codeElevateDiarioDeBordo
    
 2. Instale as dependências:
