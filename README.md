@@ -39,7 +39,7 @@ A análise é realizada a partir de um arquivo CSV contendo os dados brutos das 
 ---
 
 ## 📂 Estrutura de Diretórios
-
+```plaintext
 📦 codeElevateDiarioDeBordo
 ├── 📁 data
 │ ├── 📁 raw
@@ -128,4 +128,7 @@ O projeto segue a abordagem **Medallion Architecture**, dividida em três camada
 
 👨‍💻 Autor
 Humberto Monteiro da Cruz - Desenvolvedor Principal - [humbertomonteiro8](https://github.com/humbertomonteiro8)
+
+
+
 
