@@ -1,0 +1,1154 @@
+DATA_INICIO,DATA_FIM,CATEGORIA,LOCAL_INICIO,LOCAL_FIM,DISTANCIA,PROPOSITO,DT_REFE
+2016-01-01 21:11:00,01-01-2016 21:17,Negocio,Fort Pierce,Fort Pierce,51,Alimentação,2016-01-01
+2016-01-02 01:25:00,01-02-2016 01:37,Negocio,Fort Pierce,Fort Pierce,5,Indefinido,2016-01-02
+2016-01-02 20:25:00,01-02-2016 20:38,Negocio,Fort Pierce,Fort Pierce,48,Entregas,2016-01-02
+2016-01-05 17:31:00,01-05-2016 17:45,Negocio,Fort Pierce,Fort Pierce,47,Reunião,2016-01-05
+2016-01-06 14:42:00,01-06-2016 15:49,Negocio,Fort Pierce,West Palm Beach,637,Visita Ao Cliente,2016-01-06
+2016-01-06 17:15:00,01-06-2016 17:19,Negocio,West Palm Beach,West Palm Beach,43,Alimentação,2016-01-06
+2016-01-06 17:30:00,01-06-2016 17:35,Negocio,West Palm Beach,Palm Beach,71,Reunião,2016-01-06
+2016-01-07 13:27:00,01-07-2016 13:33,Negocio,Cary,Cary,8,Reunião,2016-01-07
+2016-01-10 08:05:00,01-10-2016 08:25,Negocio,Cary,Morrisville,83,Reunião,2016-01-10
+2016-01-10 12:17:00,01-10-2016 12:44,Negocio,Jamaica,New York,165,Visita Ao Cliente,2016-01-10
+2016-01-10 15:08:00,01-10-2016 15:51,Negocio,New York,Queens,108,Reunião,2016-01-10
+2016-01-10 18:18:00,01-10-2016 18:53,Negocio,Elmhurst,New York,75,Reunião,2016-01-10
+2016-01-10 19:12:00,01-10-2016 19:32,Negocio,Midtown,East Harlem,62,Reunião,2016-01-10
+2016-01-11 11:56:00,01-11-2016 12:03,Negocio,Flatiron District,Midtown,16,Entregas,2016-01-11
+2016-01-11 13:32:00,01-11-2016 13:46,Negocio,Midtown,Midtown East,17,Alimentação,2016-01-11
+2016-01-11 14:30:00,01-11-2016 14:43,Negocio,Midtown East,Midtown,19,Alimentação,2016-01-11
+2016-01-12 12:33:00,01-12-2016 12:49,Negocio,Midtown,Hudson Square,19,Alimentação,2016-01-12
+2016-01-12 12:53:00,01-12-2016 13:09,Negocio,Hudson Square,Lower Manhattan,4,Alimentação,2016-01-12
+2016-01-12 14:42:00,01-12-2016 14:56,Negocio,Lower Manhattan,Hudson Square,18,Entregas,2016-01-12
+2016-01-12 15:13:00,01-12-2016 15:28,Negocio,Hudson Square,Hell's Kitchen,24,Visita Ao Cliente,2016-01-12
+2016-01-12 15:42:00,01-12-2016 15:54,Negocio,Hell's Kitchen,Midtown,2,Entregas,2016-01-12
+2016-01-12 16:02:00,01-12-2016 17:00,Negocio,New York,Queens County,151,Reunião,2016-01-12
+2016-01-13 13:54:00,01-13-2016 14:07,Negocio,Downtown,Gulfton,112,Reunião,2016-01-13
+2016-01-13 15:00:00,01-13-2016 15:28,Negocio,Gulfton,Downtown,118,Reunião,2016-01-13
+2016-01-13 16:29:00,01-13-2016 17:05,Negocio,Houston,Houston,219,Visita Ao Cliente,2016-01-13
+2016-01-13 21:39:00,01-13-2016 21:45,Negocio,Eagan Park,Jamestown Court,39,Entregas,2016-01-13
+2016-01-15 00:41:00,01-15-2016 1:01,Negocio,Morrisville,Cary,8,Entregas,2016-01-15
+2016-01-15 11:43:00,01-15-2016 12:03,Negocio,Cary,Durham,104,Alimentação,2016-01-15
+2016-01-15 13:26:00,01-15-2016 13:44,Negocio,Durham,Cary,104,Alimentação,2016-01-15
+2016-01-18 14:55:00,01-18-2016 15:06,Negocio,Cary,Cary,48,Alimentação,2016-01-18
+2016-01-18 16:13:00,01-18-2016 16:24,Negocio,Farmington Woods,Whitebridge,47,Alimentação,2016-01-18
+2016-01-19 09:09:00,01-19-2016 9:23,Negocio,Whitebridge,Lake Wellingborough,72,Indefinido,2016-01-19
+2016-01-20 10:36:00,01-20-2016 11:11,Negocio,Cary,Raleigh,171,Reunião,2016-01-20
+2016-01-20 11:48:00,01-20-2016 12:19,Negocio,Fayetteville Street,Umstead,151,Reunião,2016-01-20
+2016-01-20 13:25:00,01-20-2016 14:19,Negocio,Raleigh,Cary,402,Visita Ao Cliente,2016-01-20
+2016-01-21 14:25:00,01-21-2016 14:29,Negocio,Cary,Cary,16,Entregas,2016-01-21
+2016-01-21 14:43:00,01-21-2016 14:51,Negocio,Cary,Cary,24,Alimentação,2016-01-21
+2016-01-21 16:01:00,01-21-2016 16:06,Negocio,Cary,Cary,1,Alimentação,2016-01-21
+2016-01-26 10:41:00,01-26-2016 10:50,Negocio,Whitebridge,Hazelwood,2,Alimentação,2016-01-26
+2016-01-26 12:33:00,01-26-2016 12:41,Negocio,Hazelwood,Whitebridge,23,Entregas,2016-01-26
+2016-01-26 16:24:00,01-26-2016 16:32,Negocio,Whitebridge,Westpark Place,19,Entregas,2016-01-26
+2016-01-26 17:17:00,01-26-2016 17:22,Negocio,Cary,Cary,14,Entregas,2016-01-26
+2016-01-26 17:27:00,01-26-2016 17:29,Negocio,Cary,Cary,5,Entregas,2016-01-26
+2016-01-27 09:24:00,01-27-2016 9:31,Negocio,Cary,Cary,18,Reunião,2016-01-27
+2016-01-27 10:19:00,01-27-2016 10:48,Negocio,Cary,Raleigh,187,Visita Ao Cliente,2016-01-27
+2016-01-27 12:34:00,01-27-2016 12:44,Negocio,Fairmont,Meredith Townes,34,Visita Ao Cliente,2016-01-27
+2016-01-27 14:05:00,01-27-2016 14:13,Negocio,Raleigh,Raleigh,27,Visita Ao Cliente,2016-01-27
+2016-01-27 14:46:00,01-27-2016 15:08,Negocio,Raleigh,Cary,129,Visita Ao Cliente,2016-01-27
+2016-01-28 12:28:00,01-28-2016 13:00,Negocio,Cary,Raleigh,19,Parada Temporária,2016-01-28
+2016-01-28 15:11:00,01-28-2016 15:31,Negocio,Meredith Townes,Leesville Hollow,147,Reunião,2016-01-28
+2016-01-28 16:21:00,01-28-2016 16:51,Negocio,Raleigh,Cary,157,Reunião,2016-01-28
+2016-01-29 09:31:00,01-29-2016 9:45,Negocio,Cary,Cary,46,Visita Ao Cliente,2016-01-29
+2016-01-29 10:56:00,01-29-2016 11:07,Negocio,Cary,Cary,52,Reunião,2016-01-29
+2016-01-29 11:43:00,01-29-2016 12:03,Negocio,Cary,Durham,104,Reunião,2016-01-29
+2016-01-29 13:24:00,01-29-2016 13:47,Negocio,Durham,Cary,101,Reunião,2016-01-29
+2016-01-29 18:31:00,01-29-2016 18:52,Negocio,Cary,Apex,58,Entregas,2016-01-29
+2016-01-29 21:21:00,01-29-2016 21:40,Negocio,Apex,Cary,55,Alimentação,2016-01-29
+2016-01-30 16:21:00,01-30-2016 16:33,Negocio,Cary,Apex,57,Entregas,2016-01-30
+2016-01-30 18:09:00,01-30-2016 18:24,Negocio,Apex,Cary,57,Visita Ao Cliente,2016-01-30
+2016-02-01 10:35:00,02-01-2016 11:15,Negocio,Cary,Chapel Hill,194,Visita Ao Cliente,2016-02-01
+2016-02-01 12:10:00,02-01-2016 12:43,Negocio,Chapel Hill,Cary,233,Visita Ao Cliente,2016-02-01
+2016-02-01 12:56:00,02-01-2016 13:07,Negocio,Northwoods,Whitebridge,39,Alimentação,2016-02-01
+2016-02-02 13:04:00,02-02-2016 13:23,Negocio,Whitebridge,Williamsburg Manor,83,Reunião,2016-02-02
+2016-02-02 13:51:00,02-02-2016 14:06,Negocio,Cary,Cary,6,Entregas,2016-02-02
+2016-02-02 14:38:00,02-02-2016 14:42,Negocio,Cary,Cary,16,Entregas,2016-02-02
+2016-02-04 08:40:00,02-04-2016 09:01,Negocio,Cary,Morrisville,52,Entregas,2016-02-04
+2016-02-04 09:37:00,02-04-2016 10:09,Negocio,Morrisville,Cary,97,Alimentação,2016-02-04
+2016-02-04 10:26:00,02-04-2016 10:32,Negocio,Cary,Cary,16,Alimentação,2016-02-04
+2016-02-04 15:59:00,02-04-2016 16:03,Negocio,Cary,Cary,11,Alimentação,2016-02-04
+2016-02-04 16:35:00,02-04-2016 16:39,Negocio,Cary,Cary,16,Alimentação,2016-02-04
+2016-02-04 18:04:00,02-04-2016 18:31,Negocio,Whitebridge,Macgregor Downs,9,Reunião,2016-02-04
+2016-02-04 20:36:00,02-04-2016 20:55,Negocio,Cary,Cary,77,Reunião,2016-02-04
+2016-02-05 11:47:00,02-05-2016 12:07,Negocio,Cary,Durham,104,Reunião,2016-02-05
+2016-02-05 13:22:00,02-05-2016 13:41,Negocio,Durham,Cary,104,Reunião,2016-02-05
+2016-02-06 16:20:00,02-06-2016 16:53,Negocio,Cary,Raleigh,114,Entre Escritórios,2016-02-06
+2016-02-06 18:57:00,02-06-2016 19:21,Negocio,Raleigh,Cary,9,Entregas,2016-02-06
+2016-02-06 19:28:00,02-06-2016 19:37,Negocio,Edgehill Farms,Whitebridge,32,Alimentação,2016-02-06
+2016-02-07 16:49:00,02-07-2016 17:01,Negocio,Cary,Apex,56,Entregas,2016-02-07
+2016-02-07 18:03:00,02-07-2016 18:17,Negocio,Apex,Cary,57,Visita Ao Cliente,2016-02-07
+2016-02-07 18:39:00,02-07-2016 18:53,Negocio,Cary,Morrisville,61,Parada Temporária,2016-02-07
+2016-02-07 20:22:00,02-07-2016 20:40,Negocio,Morrisville,Cary,61,Reunião,2016-02-07
+2016-02-08 12:57:00,02-08-2016 13:08,Negocio,Whitebridge,Edgehill Farms,43,Alimentação,2016-02-08
+2016-02-08 14:00:00,02-08-2016 14:10,Negocio,Edgehill Farms,Whitebridge,27,Alimentação,2016-02-08
+2016-02-09 10:54:00,02-09-2016 11:07,Pessoal,Whitebridge,Northwoods,53,Indefinido,2016-02-09
+2016-02-09 11:43:00,02-09-2016 11:50,Pessoal,Northwoods,Tanglewood,3,Indefinido,2016-02-09
+2016-02-09 13:36:00,02-09-2016 13:52,Pessoal,Tanglewood,Preston,51,Indefinido,2016-02-09
+2016-02-09 13:58:00,02-09-2016 14:02,Pessoal,Preston,Whitebridge,15,Indefinido,2016-02-09
+2016-02-09 18:55:00,02-09-2016 19:11,Negocio,Cary,Morrisville,61,Indefinido,2016-02-09
+2016-02-09 20:24:00,02-09-2016 20:40,Negocio,Morrisville,Cary,61,Alimentação,2016-02-09
+2016-02-11 16:28:00,02-11-2016 17:10,Negocio,Cary,Raleigh,173,Alimentação,2016-02-11
+2016-02-11 17:49:00,02-11-2016 18:10,Negocio,Eastgate,Walnut Terrace,57,Alimentação,2016-02-11
+2016-02-11 18:24:00,02-11-2016 18:46,Negocio,Raleigh,Morrisville,135,Parada Temporária,2016-02-11
+2016-02-11 20:36:00,02-11-2016 20:51,Negocio,Morrisville,Cary,61,Parada Temporária,2016-02-11
+2016-02-12 08:21:00,02-12-2016 08:42,Negocio,Cary,Durham,85,Parada Temporária,2016-02-12
+2016-02-12 10:45:00,02-12-2016 10:52,Negocio,Durham,Morrisville,26,Parada Temporária,2016-02-12
+2016-02-12 11:14:00,02-12-2016 11:35,Negocio,Morrisville,Raleigh,17,Visita Ao Cliente,2016-02-12
+2016-02-12 13:02:00,02-12-2016 13:36,Negocio,Raleigh,Cary,18,Reunião,2016-02-12
+2016-02-12 14:49:00,02-12-2016 15:06,Negocio,Cary,Morrisville,84,Reunião,2016-02-12
+2016-02-12 15:33:00,02-12-2016 16:06,Negocio,Morrisville,Cary,115,Visita Ao Cliente,2016-02-12
+2016-02-13 14:21:00,02-13-2016 14:41,Negocio,Cary,Morrisville,89,Reunião,2016-02-13
+2016-02-13 23:45:00,02-13-2016 0:01,Pessoal,East Elmhurst,Jackson Heights,27,Indefinido,2016-02-13
+2016-02-13 00:50:00,02-13-2016 1:00,Pessoal,Jackson Heights,East Elmhurst,18,Indefinido,2016-02-13
+2016-02-13 14:07:00,02-13-2016 14:40,Negocio,East Elmhurst,New York,81,Reunião,2016-02-13
+2016-02-13 14:46:00,02-13-2016 15:03,Negocio,Midtown,Midtown West,2,Reunião,2016-02-13
+2016-02-13 16:35:00,02-13-2016 17:02,Negocio,New York,Long Island City,13,Reunião,2016-02-13
+2016-02-13 17:06:00,02-13-2016 17:29,Negocio,Long Island City,Jamaica,139,Reunião,2016-02-13
+2016-02-16 03:21:00,02-16-2016 4:13,Negocio,Katunayaka,Unknown Location,437,Visita Ao Cliente,2016-02-16
+2016-02-16 08:29:00,02-16-2016 9:34,Negocio,Unknown Location,Colombo,141,Indefinido,2016-02-16
+2016-02-16 10:31:00,02-16-2016 10:41,Negocio,Colombo,Colombo,26,Indefinido,2016-02-16
+2016-02-16 11:32:00,02-16-2016 12:02,Negocio,Colombo,Colombo,45,Indefinido,2016-02-16
+2016-02-16 12:39:00,02-16-2016 12:42,Negocio,Colombo,Colombo,17,Indefinido,2016-02-16
+2016-02-16 13:43:00,02-16-2016 13:55,Negocio,Colombo,Colombo,18,Parada Temporária,2016-02-16
+2016-02-16 16:34:00,02-16-2016 17:10,Negocio,Colombo,Colombo,6,Indefinido,2016-02-16
+2016-02-16 17:17:00,02-16-2016 17:26,Negocio,Colombo,Nugegoda,11,Alimentação,2016-02-16
+2016-02-16 17:40:00,02-16-2016 17:44,Negocio,Nugegoda,Unknown Location,36,Entregas,2016-02-16
+2016-02-17 13:18:00,02-17-2016 14:04,Negocio,Unknown Location,Colombo,147,Parada Temporária,2016-02-17
+2016-02-17 15:17:00,02-17-2016 15:22,Negocio,Colombo,Colombo,17,Alimentação,2016-02-17
+2016-02-17 15:33:00,02-17-2016 16:17,Negocio,Colombo,Katunayaka,214,Parada Temporária,2016-02-17
+2016-02-17 16:38:00,02-17-2016 16:43,Negocio,Katunayaka,Katunayaka,5,Entregas,2016-02-17
+2016-02-18 08:19:00,02-18-2016 8:27,Negocio,Unknown Location,Unknown Location,235,Parada Temporária,2016-02-18
+2016-02-18 14:03:00,02-18-2016 14:45,Negocio,Unknown Location,Islamabad,127,Parada Temporária,2016-02-18
+2016-02-18 15:16:00,02-18-2016 15:31,Negocio,Islamabad,Unknown Location,6,Parada Temporária,2016-02-18
+2016-02-18 18:44:00,02-18-2016 18:58,Negocio,Unknown Location,Islamabad,52,Visita Ao Cliente,2016-02-18
+2016-02-18 19:27:00,02-18-2016 20:08,Negocio,Islamabad,Unknown Location,10,Reunião,2016-02-18
+2016-02-19 09:02:00,02-19-2016 9:14,Negocio,Unknown Location,Unknown Location,183,Reunião,2016-02-19
+2016-02-19 09:21:00,02-19-2016 9:51,Negocio,Unknown Location,Unknown Location,112,Reunião,2016-02-19
+2016-02-19 10:21:00,02-19-2016 10:48,Negocio,Unknown Location,Islamabad,76,Reunião,2016-02-19
+2016-02-19 11:20:00,02-19-2016 11:26,Pessoal,Islamabad,Islamabad,15,Indefinido,2016-02-19
+2016-02-19 11:45:00,02-19-2016 11:50,Pessoal,Islamabad,Islamabad,1,Indefinido,2016-02-19
+2016-02-19 12:09:00,02-19-2016 12:27,Negocio,Islamabad,Unknown Location,73,Parada Temporária,2016-02-19
+2016-02-19 16:26:00,02-19-2016 16:45,Negocio,Unknown Location,Islamabad,35,Indefinido,2016-02-19
+2016-02-19 17:09:00,02-19-2016 17:20,Negocio,Islamabad,Islamabad,42,Indefinido,2016-02-19
+2016-02-19 20:08:00,02-19-2016 20:30,Pessoal,Islamabad,Unknown Location,136,Indefinido,2016-02-19
+2016-02-19 20:34:00,02-19-2016 20:51,Pessoal,Unknown Location,Unknown Location,25,Indefinido,2016-02-19
+2016-02-20 07:59:00,02-20-2016 8:32,Pessoal,Unknown Location,Islamabad,144,Indefinido,2016-02-20
+2016-02-20 10:48:00,02-20-2016 10:56,Pessoal,Islamabad,Islamabad,3,Indefinido,2016-02-20
+2016-02-20 11:45:00,02-20-2016 11:53,Pessoal,Islamabad,Islamabad,15,Indefinido,2016-02-20
+2016-02-20 12:41:00,02-20-2016 13:17,Negocio,Islamabad,R?walpindi,184,Indefinido,2016-02-20
+2016-02-20 14:50:00,02-20-2016 15:54,Negocio,R?walpindi,R?walpindi,231,Reunião,2016-02-20
+2016-02-20 16:59:00,02-20-2016 17:54,Pessoal,R?walpindi,Unknown Location,165,Indefinido,2016-02-20
+2016-02-20 18:00:00,02-20-2016 18:03,Negocio,Unknown Location,Unknown Location,32,Entregas,2016-02-20
+2016-02-20 19:28:00,02-20-2016 19:49,Negocio,Unknown Location,Unknown Location,77,Entregas,2016-02-20
+2016-02-21 09:07:00,02-21-2016 9:46,Negocio,Unknown Location,Islamabad,145,Indefinido,2016-02-21
+2016-02-21 11:39:00,02-21-2016 11:43,Negocio,Unknown Location,Islamabad,24,Entregas,2016-02-21
+2016-02-21 11:47:00,02-21-2016 12:01,Negocio,Islamabad,Islamabad,46,Entregas,2016-02-21
+2016-02-21 12:13:00,02-21-2016 12:35,Negocio,Islamabad,Unknown Location,88,Alimentação,2016-02-21
+2016-02-21 12:51:00,02-21-2016 13:12,Negocio,Unknown Location,Unknown Location,83,Parada Temporária,2016-02-21
+2016-02-21 13:33:00,02-21-2016 14:30,Negocio,Unknown Location,Unknown Location,227,Parada Temporária,2016-02-21
+2016-02-21 14:36:00,02-21-2016 15:03,Negocio,Unknown Location,Islamabad,13,Parada Temporária,2016-02-21
+2016-02-21 15:14:00,02-21-2016 15:31,Negocio,Islamabad,Noorpur Shahan,81,Parada Temporária,2016-02-21
+2016-02-21 15:36:00,02-21-2016 15:41,Negocio,Noorpur Shahan,Unknown Location,22,Alimentação,2016-02-21
+2016-02-21 16:04:00,02-21-2016 16:32,Negocio,Unknown Location,Unknown Location,97,Indefinido,2016-02-21
+2016-02-21 23:15:00,02-21-2016 23:52,Negocio,Unknown Location,R?walpindi,20,Reunião,2016-02-21
+2016-02-22 21:54:00,02-22-2016 22:09,Negocio,Morrisville,Cary,81,Visita Ao Cliente,2016-02-22
+2016-02-24 14:30:00,02-24-2016 14:35,Negocio,Whitebridge,Preston,15,Indefinido,2016-02-24
+2016-02-24 15:19:00,02-24-2016 15:25,Negocio,Preston,Whitebridge,17,Entregas,2016-02-24
+2016-02-25 16:27:00,02-25-2016 16:35,Negocio,Whitebridge,Heritage Pines,31,Entregas,2016-02-25
+2016-02-25 16:47:00,02-25-2016 17:02,Negocio,Heritage Pines,Whitebridge,32,Entregas,2016-02-25
+2016-02-25 17:16:00,02-25-2016 17:36,Negocio,Whitebridge,Tanglewood,6,Alimentação,2016-02-25
+2016-02-25 18:22:00,02-25-2016 18:39,Negocio,Tanglewood,Whitebridge,58,Alimentação,2016-02-25
+2016-02-26 09:06:00,02-26-2016 9:29,Negocio,Whitebridge,Westpark Place,63,Indefinido,2016-02-26
+2016-02-26 11:05:00,02-26-2016 11:11,Pessoal,Westpark Place,Whitebridge,17,Indefinido,2016-02-26
+2016-02-26 11:35:00,02-26-2016 11:59,Negocio,Cary,Durham,106,Reunião,2016-02-26
+2016-02-26 13:01:00,02-26-2016 13:24,Negocio,Durham,Cary,99,Reunião,2016-02-26
+2016-02-26 14:38:00,02-26-2016 14:46,Pessoal,Whitebridge,Westpark Place,19,Indefinido,2016-02-26
+2016-02-26 15:00:00,02-26-2016 15:18,Pessoal,Westpark Place,Hazelwood,42,Indefinido,2016-02-26
+2016-02-26 17:01:00,02-26-2016 17:12,Pessoal,Hazelwood,Whitebridge,2,Indefinido,2016-02-26
+2016-02-28 05:22:00,02-28-2016 5:38,Negocio,Whitebridge,Waverly Place,77,Reunião,2016-02-28
+2016-02-28 09:26:00,02-28-2016 9:42,Negocio,Waverly Place,Whitebridge,68,Reunião,2016-02-28
+2016-02-29 11:07:00,02-29-2016 11:14,Pessoal,Whitebridge,Westpark Place,21,Indefinido,2016-02-29
+2016-02-29 11:30:00,02-29-2016 11:40,Negocio,Cary,Apex,38,Reunião,2016-02-29
+2016-02-29 12:36:00,02-29-2016 12:48,Negocio,Apex,Cary,56,Reunião,2016-02-29
+2016-02-29 14:55:00,02-29-2016 15:03,Negocio,Whitebridge,Hazelwood,26,Indefinido,2016-02-29
+2016-02-29 16:40:00,02-29-2016 17:00,Negocio,Hazelwood,Whitebridge,66,Visita Ao Cliente,2016-02-29
+2016-03-01 18:47:00,03-01-2016 19:10,Negocio,Whitebridge,Wayne Ridge,8,Alimentação,2016-03-01
+2016-03-01 21:27:00,03-01-2016 21:45,Negocio,Wayne Ridge,Whitebridge,8,Reunião,2016-03-01
+2016-03-03 09:45:00,03-03-2016 09:52,Pessoal,Whitebridge,Westpark Place,22,Indefinido,2016-03-03
+2016-03-03 11:04:00,03-03-2016 11:10,Negocio,Westpark Place,Whitebridge,23,Entregas,2016-03-03
+2016-03-03 14:44:00,03-03-2016 14:58,Negocio,Whitebridge,Northwoods,52,Alimentação,2016-03-03
+2016-03-03 15:27:00,03-03-2016 15:48,Negocio,Cary,Raleigh,76,Visita Ao Cliente,2016-03-03
+2016-03-03 16:02:00,03-03-2016 16:42,Negocio,Raleigh,Cary,173,Reunião,2016-03-03
+2016-03-04 07:47:00,03-04-2016 08:06,Negocio,Cary,Durham,99,Reunião,2016-03-04
+2016-03-04 09:46:00,03-04-2016 10:03,Negocio,Durham,Cary,99,Visita Ao Cliente,2016-03-04
+2016-03-04 11:46:00,03-04-2016 12:06,Negocio,Cary,Durham,104,Reunião,2016-03-04
+2016-03-04 13:03:00,03-04-2016 13:25,Negocio,Durham,Cary,109,Reunião,2016-03-04
+2016-03-04 13:40:00,03-04-2016 14:09,Negocio,Cary,Raleigh,157,Visita Ao Cliente,2016-03-04
+2016-03-04 15:56:00,03-04-2016 16:08,Negocio,Raleigh,Raleigh,49,Alimentação,2016-03-04
+2016-03-04 16:16:00,03-04-2016 16:22,Negocio,Fayetteville Street,Depot Historic District,8,Entregas,2016-03-04
+2016-03-04 16:43:00,03-04-2016 17:12,Negocio,Raleigh,Cary,135,Reunião,2016-03-04
+2016-03-04 19:02:00,03-04-2016 19:08,Negocio,Cary,Morrisville,19,Parada Temporária,2016-03-04
+2016-03-04 19:16:00,03-04-2016 19:25,Negocio,Morrisville,Cary,2,Alimentação,2016-03-04
+2016-03-05 11:44:00,03-05-2016 11:59,Negocio,Cary,Morrisville,65,Alimentação,2016-03-05
+2016-03-05 12:57:00,03-05-2016 13:12,Pessoal,Weston,Weston,42,Indefinido,2016-03-05
+2016-03-05 14:08:00,03-05-2016 14:18,Pessoal,Morrisville,Cary,35,Indefinido,2016-03-05
+2016-03-05 14:39:00,03-05-2016 15:01,Negocio,Whitebridge,Wayne Ridge,78,Alimentação,2016-03-05
+2016-03-05 16:52:00,03-05-2016 17:13,Negocio,Cary,Morrisville,78,Alimentação,2016-03-05
+2016-03-05 17:23:00,03-05-2016 17:34,Negocio,Morrisville,Cary,39,Alimentação,2016-03-05
+2016-03-07 09:10:00,03-07-2016 09:20,Negocio,Whitebridge,Edgehill Farms,28,Entregas,2016-03-07
+2016-03-07 09:23:00,03-07-2016 09:47,Negocio,Cary,Raleigh,124,Visita Ao Cliente,2016-03-07
+2016-03-07 12:10:00,03-07-2016 12:26,Negocio,Fayetteville Street,Meredith Townes,59,Visita Ao Cliente,2016-03-07
+2016-03-07 13:57:00,03-07-2016 14:18,Negocio,Meredith Townes,Leesville Hollow,94,Reunião,2016-03-07
+2016-03-07 15:19:00,03-07-2016 15:45,Negocio,Raleigh,Cary,119,Entre Escritórios,2016-03-07
+2016-03-08 14:38:00,03-08-2016 14:55,Negocio,Whitebridge,Waverly Place,72,Entre Escritórios,2016-03-08
+2016-03-08 15:35:00,03-08-2016 16:00,Negocio,Waverly Place,Whitebridge,76,Alimentação,2016-03-08
+2016-03-08 16:13:00,03-08-2016 16:25,Pessoal,Whitebridge,Whitebridge,16,Indefinido,2016-03-08
+2016-03-10 03:36:00,03-10-2016 03:53,Negocio,Cary,Morrisville,84,Reunião,2016-03-10
+2016-03-10 10:08:00,03-10-2016 10:37,Negocio,East Austin,West University,128,Reunião,2016-03-10
+2016-03-10 14:39:00,03-10-2016 14:55,Negocio,West University,South Congress,23,Indefinido,2016-03-10
+2016-03-10 16:18:00,03-10-2016 16:28,Negocio,South Congress,Arts District,16,Indefinido,2016-03-10
+2016-03-11 09:47:00,03-11-2016 09:59,Negocio,The Drag,Congress Ave District,2,Alimentação,2016-03-11
+2016-03-11 10:29:00,03-11-2016 10:36,Negocio,Congress Ave District,Downtown,8,Indefinido,2016-03-11
+2016-03-11 11:57:00,03-11-2016 12:04,Negocio,Downtown,Red River District,12,Indefinido,2016-03-11
+2016-03-11 13:43:00,03-11-2016 13:51,Negocio,Red River District,Downtown,1,Indefinido,2016-03-11
+2016-03-11 19:21:00,03-11-2016 19:35,Negocio,South Congress,The Drag,21,Indefinido,2016-03-11
+2016-03-12 09:13:00,03-12-2016 09:22,Negocio,The Drag,South Congress,22,Indefinido,2016-03-12
+2016-03-12 18:27:00,03-12-2016 18:37,Pessoal,South Congress,The Drag,19,Indefinido,2016-03-12
+2016-03-13 09:07:00,03-13-2016 9:37,Negocio,The Drag,Convention Center District,57,Alimentação,2016-03-13
+2016-03-13 18:23:00,03-13-2016 18:43,Negocio,South Congress,North Austin,84,Alimentação,2016-03-13
+2016-03-13 20:07:00,03-13-2016 20:28,Negocio,Georgian Acres,The Drag,62,Alimentação,2016-03-13
+2016-03-13 20:39:00,03-13-2016 20:58,Negocio,The Drag,North Austin,105,Alimentação,2016-03-13
+2016-03-13 21:11:00,03-13-2016 21:23,Negocio,North Austin,Coxville,72,Alimentação,2016-03-13
+2016-03-13 22:19:00,03-13-2016 22:39,Negocio,Coxville,The Drag,125,Indefinido,2016-03-13
+2016-03-14 08:34:00,03-14-2016 8:49,Negocio,The Drag,South Congress,2,Entregas,2016-03-14
+2016-03-14 18:39:00,03-14-2016 18:55,Negocio,South Congress,The Drag,27,Indefinido,2016-03-14
+2016-03-15 08:45:00,03-15-2016 8:57,Negocio,The Drag,Convention Center District,2,Alimentação,2016-03-15
+2016-03-15 20:48:00,03-15-2016 21:01,Negocio,Downtown,The Drag,28,Alimentação,2016-03-15
+2016-03-16 11:34:00,03-16-2016 11:45,Negocio,The Drag,Congress Ave District,17,Alimentação,2016-03-16
+2016-03-16 14:44:00,03-16-2016 14:55,Negocio,Convention Center District,West University,2,Indefinido,2016-03-16
+2016-03-16 18:43:00,03-16-2016 18:56,Negocio,West University,Congress Ave District,21,Alimentação,2016-03-16
+2016-03-17 00:33:00,03-17-2016 0:44,Pessoal,Downtown,The Drag,17,Indefinido,2016-03-17
+2016-03-17 12:52:00,03-17-2016 15:11,Negocio,Austin,Katy,136,Visita Ao Cliente,2016-03-17
+2016-03-17 15:16:00,03-17-2016 15:58,Negocio,Katy,Houston,302,Reunião,2016-03-17
+2016-03-17 17:20:00,03-17-2016 18:02,Negocio,Midtown,Alief,155,Alimentação,2016-03-17
+2016-03-17 18:47:00,03-17-2016 19:09,Pessoal,Houston,Houston,49,Indefinido,2016-03-17
+2016-03-17 20:57:00,03-17-2016 21:28,Pessoal,Houston,Houston,126,Indefinido,2016-03-17
+2016-03-17 21:48:00,03-17-2016 22:04,Pessoal,Sharpstown,Midtown,104,Indefinido,2016-03-17
+2016-03-18 07:15:00,03-18-2016 7:21,Negocio,Midtown,Midtown,11,Alimentação,2016-03-18
+2016-03-18 08:35:00,03-18-2016 8:43,Negocio,Midtown,Midtown,11,Alimentação,2016-03-18
+2016-03-18 18:24:00,03-18-2016 19:08,Negocio,Midtown,Sharpstown,132,Reunião,2016-03-18
+2016-03-18 19:23:00,03-18-2016 19:29,Negocio,Sharpstown,Sharpstown,1,Entregas,2016-03-18
+2016-03-18 21:01:00,03-18-2016 21:15,Negocio,Sharpstown,Midtown,92,Visita Ao Cliente,2016-03-18
+2016-03-19 09:10:00,03-19-2016 9:25,Negocio,Midtown,Sharpstown,94,Alimentação,2016-03-19
+2016-03-19 12:50:00,03-19-2016 13:13,Negocio,Houston,Sugar Land,12,Visita Ao Cliente,2016-03-19
+2016-03-19 14:01:00,03-19-2016 14:57,Negocio,Sugar Land,Houston,351,Visita Ao Cliente,2016-03-19
+2016-03-19 15:34:00,03-19-2016 16:38,Negocio,Houston,Galveston,365,Alimentação,2016-03-19
+2016-03-19 17:17:00,03-19-2016 17:32,Negocio,Galveston,Port Bolivar,31,Alimentação,2016-03-19
+2016-03-19 17:37:00,03-19-2016 17:47,Negocio,Port Bolivar,Port Bolivar,21,Entregas,2016-03-19
+2016-03-19 17:52:00,03-19-2016 18:00,Negocio,Port Bolivar,Port Bolivar,12,Indefinido,2016-03-19
+2016-03-19 18:53:00,03-19-2016 19:29,Negocio,Port Bolivar,Galveston,75,Reunião,2016-03-19
+2016-03-19 19:33:00,03-19-2016 20:39,Negocio,Galveston,Houston,57,Visita Ao Cliente,2016-03-19
+2016-03-20 07:37:00,03-20-2016 7:48,Negocio,Midtown,Washington Avenue,59,Reunião,2016-03-20
+2016-03-20 11:42:00,03-20-2016 11:56,Negocio,Washington Avenue,Midtown,62,Reunião,2016-03-20
+2016-03-20 17:08:00,03-20-2016 17:34,Negocio,Midtown,Sharpstown,104,Indefinido,2016-03-20
+2016-03-20 18:34:00,03-20-2016 18:40,Pessoal,Sharpstown,Briar Meadow,12,Indefinido,2016-03-20
+2016-03-20 18:45:00,03-20-2016 19:06,Negocio,Briar Meadow,Midtown,96,Visita Ao Cliente,2016-03-20
+2016-03-21 10:21:00,03-21-2016 10:26,Pessoal,Midtown,Downtown,1,Indefinido,2016-03-21
+2016-03-21 16:05:00,03-21-2016 16:13,Negocio,Downtown,Midtown,9,Alimentação,2016-03-21
+2016-03-21 18:59:00,03-21-2016 19:15,Negocio,Midtown,Sharpstown,88,Indefinido,2016-03-21
+2016-03-21 20:18:00,03-21-2016 20:55,Negocio,Sharpstown,Midtown,256,Alimentação,2016-03-21
+2016-03-22 06:17:00,03-22-2016 6:43,Negocio,Midtown,Greater Greenspoint,23,Alimentação,2016-03-22
+2016-03-22 12:06:00,03-22-2016 12:24,Pessoal,Morrisville,Cary,81,Indefinido,2016-03-22
+2016-03-22 19:12:00,03-22-2016 19:25,Pessoal,Whitebridge,Whitebridge,14,Indefinido,2016-03-22
+2016-03-23 14:37:00,03-23-2016 14:42,Pessoal,Whitebridge,Preston,17,Indefinido,2016-03-23
+2016-03-23 14:53:00,03-23-2016 14:59,Pessoal,Preston,Whitebridge,16,Indefinido,2016-03-23
+2016-03-24 19:47:00,03-24-2016 19:54,Pessoal,Whitebridge,Westpark Place,2,Indefinido,2016-03-24
+2016-03-24 20:34:00,03-24-2016 20:40,Negocio,Westpark Place,Whitebridge,22,Indefinido,2016-03-24
+2016-03-25 13:24:00,03-25-2016 16:22,Negocio,Cary,Latta,144,Visita Ao Cliente,2016-03-25
+2016-03-25 16:52:00,03-25-2016 22:22,Negocio,Latta,Jacksonville,3103,Visita Ao Cliente,2016-03-25
+2016-03-25 22:54:00,03-26-2016 1:39,Negocio,Jacksonville,Kissimmee,201,Reunião,2016-03-25
+2016-03-26 14:05:00,03-26-2016 14:29,Pessoal,Couples Glen,Isles of Buena Vista,67,Indefinido,2016-03-26
+2016-03-26 15:19:00,03-26-2016 15:49,Pessoal,Kissimmee,Orlando,88,Indefinido,2016-03-26
+2016-03-26 16:26:00,03-26-2016 16:30,Pessoal,Lake Reams,Lake Reams,12,Indefinido,2016-03-26
+2016-03-27 00:31:00,03-27-2016 0:40,Negocio,Lake Reams,Lake Reams,21,Entregas,2016-03-27
+2016-03-27 01:11:00,03-27-2016 1:23,Negocio,Orlando,Kissimmee,66,Alimentação,2016-03-27
+2016-03-27 15:31:00,03-27-2016 15:56,Negocio,Kissimmee,Orlando,61,Visita Ao Cliente,2016-03-27
+2016-03-27 21:26:00,03-27-2016 21:41,Pessoal,Orlando,Orlando,69,Indefinido,2016-03-27
+2016-03-27 23:04:00,03-27-2016 23:18,Pessoal,Orlando,Kissimmee,73,Indefinido,2016-03-27
+2016-03-28 12:29:00,03-28-2016 12:42,Pessoal,Kissimmee,Orlando,36,Indefinido,2016-03-28
+2016-03-28 19:30:00,03-28-2016 20:23,Pessoal,Couples Glen,Vista East,272,Indefinido,2016-03-28
+2016-03-28 22:55:00,03-28-2016 23:26,Pessoal,Orlando,Kissimmee,257,Indefinido,2016-03-28
+2016-03-29 15:27:00,03-29-2016 16:11,Pessoal,Kissimmee,Orlando,136,Indefinido,2016-03-29
+2016-03-29 18:20:00,03-29-2016 18:39,Pessoal,Sand Lake Commons,Sky Lake,62,Indefinido,2016-03-29
+2016-03-29 20:29:00,03-29-2016 20:44,Pessoal,Sky Lake,Sand Lake Commons,6,Indefinido,2016-03-29
+2016-03-29 23:04:00,03-29-2016 23:21,Pessoal,Orlando,Kissimmee,138,Indefinido,2016-03-29
+2016-03-30 22:05:00,03-30-2016 22:55,Negocio,Orlando,Kissimmee,288,Alimentação,2016-03-30
+2016-03-31 12:47:00,03-31-2016 13:22,Negocio,Kissimmee,Orlando,161,Parada Temporária,2016-03-31
+2016-03-31 14:37:00,03-31-2016 15:09,Negocio,Orlando,Kissimmee,164,Alimentação,2016-03-31
+2016-04-01 13:43:00,04-01-2016 14:01,Negocio,Kissimmee,Kissimmee,11,Reunião,2016-04-01
+2016-04-01 14:36:00,04-01-2016 15:24,Negocio,Kissimmee,Orlando,155,Visita Ao Cliente,2016-04-01
+2016-04-01 16:01:00,04-01-2016 16:49,Negocio,Orlando,Kissimmee,203,Reunião,2016-04-01
+2016-04-01 16:52:00,04-01-2016 16:57,Pessoal,Kissimmee,Kissimmee,7,Indefinido,2016-04-01
+2016-04-02 08:48:00,04-02-2016 09:04,Pessoal,Kissimmee,Kissimmee,55,Indefinido,2016-04-02
+2016-04-02 11:01:00,04-02-2016 11:16,Pessoal,Kissimmee,Kissimmee,51,Indefinido,2016-04-02
+2016-04-02 12:21:00,04-02-2016 14:47,Negocio,Kissimmee,Daytona Beach,773,Visita Ao Cliente,2016-04-02
+2016-04-02 16:57:00,04-02-2016 18:09,Negocio,Daytona Beach,Jacksonville,805,Visita Ao Cliente,2016-04-02
+2016-04-02 19:38:00,04-02-2016 22:36,Negocio,Jacksonville,Ridgeland,1742,Visita Ao Cliente,2016-04-02
+2016-04-02 23:11:00,04-03-2016 01:34,Negocio,Ridgeland,Florence,144,Reunião,2016-04-02
+2016-04-03 02:00:00,04-03-2016 04:16,Negocio,Florence,Cary,1593,Reunião,2016-04-03
+2016-04-05 21:39:00,04-05-2016 21:55,Negocio,Whitebridge,Wayne Ridge,79,Alimentação,2016-04-05
+2016-04-06 00:19:00,04-06-2016 00:39,Negocio,Wayne Ridge,Whitebridge,8,Alimentação,2016-04-06
+2016-04-07 18:20:00,04-07-2016 18:39,Negocio,Cary,Morrisville,61,Alimentação,2016-04-07
+2016-04-07 19:45:00,04-07-2016 20:00,Negocio,Morrisville,Cary,61,Entregas,2016-04-07
+2016-04-08 12:30:00,04-08-2016 12:48,Negocio,Cary,Durham,105,Reunião,2016-04-08
+2016-04-08 13:34:00,04-08-2016 13:51,Negocio,Durham,Cary,87,Alimentação,2016-04-08
+2016-04-08 13:55:00,04-08-2016 14:03,Negocio,Westpark Place,Whitebridge,18,Entregas,2016-04-08
+2016-04-08 14:43:00,04-08-2016 15:20,Negocio,Cary,Raleigh,191,Reunião,2016-04-08
+2016-04-08 16:05:00,04-08-2016 16:47,Negocio,Raleigh,Cary,186,Reunião,2016-04-08
+2016-04-12 09:15:00,04-12-2016 09:26,Negocio,Whitebridge,Edgehill Farms,28,Entregas,2016-04-12
+2016-04-12 09:34:00,04-12-2016 09:53,Negocio,Cary,Raleigh,89,Reunião,2016-04-12
+2016-04-12 10:58:00,04-12-2016 11:18,Negocio,Meredith,Cedar Hill,75,Visita Ao Cliente,2016-04-12
+2016-04-12 12:22:00,04-12-2016 12:44,Negocio,Raleigh,Morrisville,159,Reunião,2016-04-12
+2016-04-12 13:42:00,04-12-2016 14:01,Negocio,Morrisville,Cary,65,Alimentação,2016-04-12
+2016-04-14 07:29:00,04-14-2016 8:09,Negocio,Cary,Holly Springs,153,Parada Temporária,2016-04-14
+2016-04-14 16:00:00,04-14-2016 16:43,Negocio,Holly Springs,Cary,137,Parada Temporária,2016-04-14
+2016-04-15 11:36:00,04-15-2016 12:07,Negocio,Cary,Raleigh,119,Parada Temporária,2016-04-15
+2016-04-15 12:29:00,04-15-2016 12:32,Negocio,Meredith Townes,Harden Place,14,Entregas,2016-04-15
+2016-04-15 14:31:00,04-15-2016 15:01,Negocio,Raleigh,Cary,152,Reunião,2016-04-15
+2016-04-16 12:59:00,04-16-2016 13:17,Negocio,Cary,Morrisville,6,Entregas,2016-04-16
+2016-04-16 15:10:00,04-16-2016 15:26,Negocio,Morrisville,Cary,61,Alimentação,2016-04-16
+2016-04-19 17:44:00,04-19-2016 18:08,Negocio,Whitebridge,Wayne Ridge,82,Alimentação,2016-04-19
+2016-04-19 19:57:00,04-19-2016 20:19,Negocio,Wayne Ridge,Whitebridge,8,Alimentação,2016-04-19
+2016-04-22 08:25:00,04-22-2016 9:04,Negocio,Cary,Raleigh,136,Reunião,2016-04-22
+2016-04-22 10:10:00,04-22-2016 10:40,Negocio,Raleigh,Cary,225,Reunião,2016-04-22
+2016-04-22 12:08:00,04-22-2016 12:28,Negocio,Cary,Durham,104,Reunião,2016-04-22
+2016-04-22 13:02:00,04-22-2016 13:26,Negocio,Durham,Cary,10,Reunião,2016-04-22
+2016-04-23 17:03:00,04-23-2016 17:16,Negocio,Whitebridge,Tanglewood,6,Alimentação,2016-04-23
+2016-04-23 18:49:00,04-23-2016 19:05,Negocio,Tanglewood,Whitebridge,65,Alimentação,2016-04-23
+2016-04-24 19:07:00,04-24-2016 19:16,Negocio,Cary,Morrisville,31,Entregas,2016-04-24
+2016-04-24 19:46:00,04-24-2016 19:52,Negocio,Chessington,Chessington,19,Entregas,2016-04-24
+2016-04-24 21:41:00,04-24-2016 21:50,Negocio,Morrisville,Cary,42,Entre Escritórios,2016-04-24
+2016-04-27 13:30:00,04-27-2016 13:40,Negocio,Whitebridge,Burtrose,49,Entre Escritórios,2016-04-27
+2016-04-27 14:13:00,04-27-2016 14:25,Negocio,Burtrose,Whitebridge,48,Entre Escritórios,2016-04-27
+2016-04-28 12:09:00,04-28-2016 12:34,Negocio,Cary,Raleigh,124,Visita Ao Cliente,2016-04-28
+2016-04-28 13:30:00,04-28-2016 13:49,Negocio,Raleigh,Cary,328,Visita Ao Cliente,2016-04-28
+2016-04-28 22:10:00,04-28-2016 22:28,Negocio,Morrisville,Cary,55,Visita Ao Cliente,2016-04-28
+2016-04-29 11:44:00,04-29-2016 12:01,Negocio,Cary,Durham,99,Reunião,2016-04-29
+2016-04-29 13:13:00,04-29-2016 13:34,Negocio,Durham,Cary,10,Reunião,2016-04-29
+2016-04-29 18:46:00,04-29-2016 19:18,Negocio,Cary,Durham,142,Visita Ao Cliente,2016-04-29
+2016-04-29 22:44:00,04-29-2016 23:19,Negocio,Durham,Cary,182,Reunião,2016-04-29
+2016-04-30 18:42:00,04-30-2016 18:57,Negocio,Whitebridge,Waverly Place,77,Alimentação,2016-04-30
+2016-04-30 22:16:00,04-30-2016 22:34,Negocio,Waverly Place,Whitebridge,68,Indefinido,2016-04-30
+2016-05-01 13:45:00,05-01-2016 13:53,Negocio,Whitebridge,Westpark Place,21,Alimentação,2016-05-01
+2016-05-01 14:26:00,05-01-2016 14:31,Negocio,Westpark Place,Whitebridge,23,Indefinido,2016-05-01
+2016-05-01 17:33:00,05-01-2016 17:45,Negocio,Whitebridge,Tanglewood,62,Entre Escritórios,2016-05-01
+2016-05-01 17:54:00,05-01-2016 18:10,Negocio,Tanglewood,Parkway,75,Reunião,2016-05-01
+2016-05-01 22:38:00,05-01-2016 22:49,Negocio,Parkway,Whitebridge,31,Entregas,2016-05-01
+2016-05-02 14:14:00,05-02-2016 14:21,Negocio,Whitebridge,Westpark Place,22,Entregas,2016-05-02
+2016-05-02 15:37:00,05-02-2016 15:48,Negocio,Westpark Place,Whitebridge,39,Alimentação,2016-05-02
+2016-05-03 22:20:00,05-03-2016 22:28,Negocio,Morrisville,Cary,25,Alimentação,2016-05-03
+2016-05-04 15:16:00,05-04-2016 15:37,Negocio,Cary,Morrisville,87,Alimentação,2016-05-04
+2016-05-04 20:55:00,05-04-2016 21:14,Negocio,Mcvan,Capitol One,145,Entregas,2016-05-04
+2016-05-04 21:30:00,05-04-2016 21:36,Negocio,Capitol One,University District,45,Alimentação,2016-05-04
+2016-05-04 22:19:00,05-04-2016 22:27,Negocio,University District,Capitol One,5,Alimentação,2016-05-04
+2016-05-05 21:24:00,05-05-2016 21:36,Negocio,Seattle,Redmond,142,Alimentação,2016-05-05
+2016-05-05 22:34:00,05-05-2016 22:40,Negocio,Redmond,Bellevue,29,Entregas,2016-05-05
+2016-05-05 23:55:00,05-06-2016 00:08,Negocio,Bellevue,Seattle,129,Reunião,2016-05-05
+2016-05-06 05:47:00,05-06-2016 06:02,Negocio,Capitol One,Mcvan,144,Reunião,2016-05-06
+2016-05-06 16:45:00,05-06-2016 16:59,Negocio,Chapel Hill,Morrisville,17,Reunião,2016-05-06
+2016-05-06 17:18:00,05-06-2016 17:44,Negocio,Morrisville,Cary,79,Visita Ao Cliente,2016-05-06
+2016-05-09 06:08:00,05-09-2016 06:25,Negocio,Cary,Morrisville,84,Visita Ao Cliente,2016-05-09
+2016-05-09 14:39:00,05-09-2016 15:06,Negocio,San Francisco,Palo Alto,205,Entre Escritórios,2016-05-09
+2016-05-09 17:58:00,05-09-2016 18:26,Negocio,Palo Alto,Sunnyvale,98,Visita Ao Cliente,2016-05-09
+2016-05-09 19:35:00,05-09-2016 19:59,Negocio,Sunnyvale,Newark,176,Visita Ao Cliente,2016-05-09
+2016-05-10 09:03:00,05-10-2016 09:20,Negocio,Newark,Menlo Park,93,Visita Ao Cliente,2016-05-10
+2016-05-10 17:19:00,05-10-2016 17:31,Negocio,Menlo Park,Newark,79,Visita Ao Cliente,2016-05-10
+2016-05-11 08:35:00,05-11-2016 09:12,Negocio,Newark,San Francisco,256,Reunião,2016-05-11
+2016-05-11 21:47:00,05-11-2016 22:04,Negocio,Morrisville,Cary,81,Reunião,2016-05-11
+2016-05-14 18:35:00,05-14-2016 18:39,Negocio,Cary,Morrisville,31,Alimentação,2016-05-14
+2016-05-14 23:01:00,05-14-2016 23:05,Negocio,Morrisville,Cary,31,Alimentação,2016-05-14
+2016-05-17 13:15:00,05-17-2016 13:23,Negocio,Whitebridge,Preston,28,Entregas,2016-05-17
+2016-05-17 13:56:00,05-17-2016 14:08,Negocio,Preston,Westpark Place,27,Entregas,2016-05-17
+2016-05-17 14:34:00,05-17-2016 14:40,Negocio,Westpark Place,Whitebridge,19,Entregas,2016-05-17
+2016-05-18 09:11:00,05-18-2016 9:41,Negocio,Cary,Morrisville,84,Visita Ao Cliente,2016-05-18
+2016-05-18 13:00:00,05-18-2016 13:02,Negocio,Morrisville,Raleigh,76,Visita Ao Cliente,2016-05-18
+2016-05-19 14:37:00,05-19-2016 15:01,Negocio,Old City,Parkway Museums,29,Alimentação,2016-05-19
+2016-05-20 10:56:00,05-20-2016 11:07,Negocio,Old City,Hog Island,112,Reunião,2016-05-20
+2016-05-20 15:43:00,05-20-2016 16:12,Negocio,Morrisville,Cary,82,Alimentação,2016-05-20
+2016-05-22 15:39:00,05-22-2016 15:46,Negocio,Cary,Morrisville,3,Alimentação,2016-05-22
+2016-05-22 18:46:00,05-22-2016 18:53,Negocio,Morrisville,Cary,25,Alimentação,2016-05-22
+2016-05-23 20:19:00,05-23-2016 20:27,Negocio,Whitebridge,Savon Height,36,Alimentação,2016-05-23
+2016-05-23 21:09:00,05-23-2016 21:21,Negocio,Savon Height,Whitebridge,36,Entregas,2016-05-23
+2016-05-27 20:26:00,05-27-2016 20:30,Negocio,Whitebridge,Kildaire Farms,45,Entregas,2016-05-27
+2016-05-27 20:47:00,05-27-2016 20:53,Negocio,Savon Height,Kilarney Woods,12,Indefinido,2016-05-27
+2016-05-27 22:11:00,05-27-2016 22:14,Negocio,Kilarney Woods,Kildaire Farms,17,Entregas,2016-05-27
+2016-05-28 00:15:00,05-28-2016 0:21,Negocio,Kilarney Woods,Whitebridge,47,Entregas,2016-05-28
+2016-05-28 12:52:00,05-28-2016 13:06,Negocio,Cary,Morrisville,61,Alimentação,2016-05-28
+2016-05-28 14:35:00,05-28-2016 15:04,Negocio,Morrisville,Cary,113,Visita Ao Cliente,2016-05-28
+2016-05-31 13:54:00,05-31-2016 14:41,Negocio,Cary,Raleigh,149,Reunião,2016-05-31
+2016-05-31 16:02:00,05-31-2016 16:39,Negocio,Raleigh,Cary,14,Reunião,2016-05-31
+2016-05-31 17:50:00,05-31-2016 17:59,Negocio,Westpark Place,Whitebridge,18,Indefinido,2016-05-31
+2016-06-01 10:19:00,06-01-2016 10:47,Negocio,Cary,Morrisville,67,Visita Ao Cliente,2016-06-01
+2016-06-01 13:10:00,06-01-2016 13:39,Negocio,Morrisville,Cary,96,Reunião,2016-06-01
+2016-06-03 11:29:00,06-03-2016 11:49,Negocio,Cary,Durham,104,Reunião,2016-06-03
+2016-06-03 13:08:00,06-03-2016 13:38,Negocio,Durham,Cary,99,Reunião,2016-06-03
+2016-06-03 15:31:00,06-03-2016 15:54,Negocio,Cary,Morrisville,6,Alimentação,2016-06-03
+2016-06-03 18:14:00,06-03-2016 18:29,Negocio,Townes at Everett Crossing,Chessington,33,Entregas,2016-06-03
+2016-06-03 18:41:00,06-03-2016 18:53,Negocio,Morrisville,Cary,31,Entregas,2016-06-03
+2016-06-03 19:36:00,06-03-2016 19:42,Negocio,Huntington Woods,Weston,17,Entregas,2016-06-03
+2016-06-03 22:47:00,06-03-2016 23:06,Negocio,Morrisville,Cary,4,Entre Escritórios,2016-06-03
+2016-06-05 14:03:00,06-05-2016 14:33,Negocio,Whitebridge,Savon Height,78,Visita Ao Cliente,2016-06-05
+2016-06-05 15:06:00,06-05-2016 15:22,Negocio,Cary,Morrisville,78,Visita Ao Cliente,2016-06-05
+2016-06-05 15:57:00,06-05-2016 16:08,Negocio,Weston,Weston,38,Alimentação,2016-06-05
+2016-06-05 18:05:00,06-05-2016 18:14,Negocio,Morrisville,Cary,25,Alimentação,2016-06-05
+2016-06-05 21:53:00,06-05-2016 22:05,Negocio,Cary,Durham,99,Reunião,2016-06-05
+2016-06-05 23:52:00,06-06-2016 00:08,Negocio,Durham,Cary,99,Reunião,2016-06-05
+2016-06-06 15:36:00,06-06-2016 15:45,Negocio,Whitebridge,Hazelwood,3,Entregas,2016-06-06
+2016-06-06 16:16:00,06-06-2016 16:24,Negocio,Hazelwood,Whitebridge,24,Entregas,2016-06-06
+2016-06-06 20:06:00,06-06-2016 20:20,Negocio,Cary,Apex,57,Alimentação,2016-06-06
+2016-06-06 21:08:00,06-06-2016 21:37,Negocio,Apex,Cary,72,Alimentação,2016-06-06
+2016-06-06 21:41:00,06-06-2016 22:00,Negocio,Cary,Durham,104,Reunião,2016-06-06
+2016-06-06 23:34:00,06-06-2016 23:48,Negocio,Durham,Cary,99,Reunião,2016-06-06
+2016-06-07 21:42:00,06-07-2016 22:00,Negocio,Cary,Durham,104,Reunião,2016-06-07
+2016-06-07 23:41:00,06-08-2016 00:04,Negocio,Durham,Cary,99,Reunião,2016-06-07
+2016-06-08 08:23:00,06-08-2016 08:53,Negocio,Cary,Morrisville,87,Alimentação,2016-06-08
+2016-06-08 12:04:00,06-08-2016 13:01,Negocio,Jamaica,New York,223,Entregas,2016-06-08
+2016-06-08 13:12:00,06-08-2016 13:29,Negocio,Seaport,Gramercy-Flatiron,33,Alimentação,2016-06-08
+2016-06-08 14:31:00,06-08-2016 14:37,Negocio,Medical Centre,Tudor City,7,Entregas,2016-06-08
+2016-06-08 16:55:00,06-08-2016 17:11,Negocio,Rose Hill,Soho,25,Alimentação,2016-06-08
+2016-06-08 17:16:00,06-08-2016 17:18,Negocio,Soho,Tribeca,5,Entregas,2016-06-08
+2016-06-08 17:59:00,06-08-2016 18:05,Negocio,Tribeca,Financial District,9,Entregas,2016-06-08
+2016-06-08 20:11:00,06-08-2016 20:25,Negocio,Financial District,Kips Bay,48,Entregas,2016-06-08
+2016-06-10 15:19:00,06-10-2016 16:28,Negocio,New York,Jamaica,163,Reunião,2016-06-10
+2016-06-10 21:47:00,06-10-2016 22:04,Negocio,Cary,Durham,104,Reunião,2016-06-10
+2016-06-10 23:53:00,06-11-2016 00:01,Negocio,Durham,Cary,99,Reunião,2016-06-10
+2016-06-11 17:08:00,06-11-2016 17:16,Negocio,Cary,Morrisville,37,Entregas,2016-06-11
+2016-06-11 17:34:00,06-11-2016 17:39,Negocio,Morrisville,Cary,46,Alimentação,2016-06-11
+2016-06-11 17:50:00,06-11-2016 17:56,Negocio,Westpark Place,Whitebridge,17,Indefinido,2016-06-11
+2016-06-11 21:45:00,06-11-2016 22:04,Negocio,Cary,Durham,104,Reunião,2016-06-11
+2016-06-11 23:39:00,06-12-2016 00:05,Negocio,Durham,Cary,99,Reunião,2016-06-11
+2016-06-12 19:53:00,06-12-2016 19:56,Negocio,Cary,Morrisville,25,Alimentação,2016-06-12
+2016-06-12 20:05:00,06-12-2016 20:16,Negocio,Morrisville,Cary,43,Entregas,2016-06-12
+2016-06-12 21:58:00,06-12-2016 22:19,Negocio,Parkway,Whitebridge,28,Entregas,2016-06-12
+2016-06-13 05:23:00,06-13-2016 5:42,Negocio,Cary,Morrisville,84,Alimentação,2016-06-13
+2016-06-13 14:17:00,06-13-2016 14:46,Negocio,Oakland,Emeryville,132,Reunião,2016-06-13
+2016-06-13 18:08:00,06-13-2016 18:47,Negocio,Emeryville,Berkeley,39,Alimentação,2016-06-13
+2016-06-13 18:54:00,06-13-2016 19:23,Negocio,Berkeley,Oakland,51,Alimentação,2016-06-13
+2016-06-13 20:00:00,06-13-2016 20:05,Negocio,Oakland,Unknown Location,52,Visita Ao Cliente,2016-06-13
+2016-05-14 12:03:00,05-14-2016 12:21,Negocio,Emeryville,San Francisco,98,Indefinido,2016-05-14
+2016-05-14 16:09:00,05-14-2016 16:39,Negocio,San Francisco,Emeryville,116,Reunião,2016-05-14
+2016-05-14 17:15:00,05-14-2016 17:24,Negocio,Emeryville,Oakland,51,Reunião,2016-05-14
+2016-05-14 17:27:00,05-14-2016 17:57,Negocio,Downtown,Bay Farm Island,93,Entregas,2016-05-14
+2016-05-15 01:46:00,05-15-2016 2:06,Negocio,Kenner,New Orleans,124,Entre Escritórios,2016-05-15
+2016-05-15 15:26:00,05-15-2016 15:34,Negocio,CBD,Lower Garden District,19,Entre Escritórios,2016-05-15
+2016-05-15 16:37:00,05-15-2016 17:02,Negocio,Lower Garden District,Lakeview,64,Visita Ao Cliente,2016-05-15
+2016-05-15 17:29:00,05-15-2016 17:49,Pessoal,Lakeview,Storyville,55,Indefinido,2016-05-15
+2016-05-15 19:52:00,05-15-2016 19:58,Negocio,Storyville,Faubourg Marigny,15,Alimentação,2016-05-15
+2016-05-16 13:36:00,05-16-2016 14:30,Negocio,New Orleans,Metairie,145,Indefinido,2016-05-16
+2016-05-16 14:42:00,05-16-2016 14:46,Negocio,Metairie,Kenner,27,Indefinido,2016-05-16
+2016-05-16 15:17:00,05-16-2016 15:41,Negocio,Kenner,New Orleans,15,Indefinido,2016-05-16
+2016-05-16 19:39:00,05-16-2016 19:56,Negocio,New Orleans,Kenner,129,Indefinido,2016-05-16
+2016-05-16 21:43:00,05-16-2016 21:56,Negocio,Kenner,New Orleans,136,Indefinido,2016-05-16
+2016-05-17 16:11:00,05-17-2016 16:44,Negocio,New Orleans,Kenner,122,Indefinido,2016-05-17
+2016-05-18 00:29:00,05-18-2016 0:51,Negocio,Morrisville,Cary,87,Indefinido,2016-05-18
+2016-05-19 02:39:00,05-19-2016 2:50,Negocio,Cary,Raleigh,6,Indefinido,2016-05-19
+2016-05-19 05:51:00,05-19-2016 6:00,Negocio,Raleigh,Cary,59,Indefinido,2016-05-19
+2016-06-21 15:39:00,06-21-2016 16:08,Negocio,Cary,Raleigh,193,Indefinido,2016-06-21
+2016-06-21 17:11:00,06-21-2016 18:02,Negocio,Raleigh,Cary,166,Alimentação,2016-06-21
+2016-06-24 10:41:00,06-24-2016 10:57,Negocio,Whitebridge,Waverly Place,71,Alimentação,2016-06-24
+2016-06-24 11:54:00,06-24-2016 12:01,Negocio,Waverly Place,Macgregor Downs,21,Alimentação,2016-06-24
+2016-06-24 12:19:00,06-24-2016 12:37,Negocio,Cary,Raleigh,86,Entregas,2016-06-24
+2016-06-24 12:50:00,06-24-2016 13:12,Negocio,Raleigh,Morrisville,9,Entregas,2016-06-24
+2016-06-24 13:18:00,06-24-2016 13:27,Negocio,Morrisville,Cary,31,Entregas,2016-06-24
+2016-06-24 14:01:00,06-24-2016 14:20,Negocio,Cary,Morrisville,84,Parada Temporária,2016-06-24
+2016-06-24 20:44:00,06-24-2016 21:02,Negocio,Kenner,New Orleans,128,Indefinido,2016-06-24
+2016-06-25 09:03:00,06-25-2016 9:12,Negocio,CBD,Bywater,45,Indefinido,2016-06-25
+2016-06-25 09:15:00,06-25-2016 10:08,Negocio,New Orleans,Chalmette,118,Entre Escritórios,2016-06-25
+2016-06-25 10:18:00,06-25-2016 10:25,Negocio,Chalmette,Arabi,11,Entregas,2016-06-25
+2016-06-25 10:50:00,06-25-2016 11:18,Negocio,Arabi,Metairie,17,Alimentação,2016-06-25
+2016-06-25 11:25:00,06-25-2016 11:34,Negocio,Pontchartrain Shores,Pontchartrain Shores,17,Reunião,2016-06-25
+2016-06-25 11:53:00,06-25-2016 13:21,Negocio,Metairie,New Orleans,155,Reunião,2016-06-25
+2016-06-25 19:47:00,06-25-2016 19:58,Negocio,Storyville,Marigny,16,Indefinido,2016-06-25
+2016-06-25 23:19:00,06-25-2016 23:26,Negocio,Marigny,Storyville,15,Indefinido,2016-06-25
+2016-06-26 17:43:00,06-26-2016 18:18,Negocio,New Orleans,Kenner,126,Reunião,2016-06-26
+2016-06-26 18:45:00,06-26-2016 19:12,Negocio,Pontchartrain Shores,Pontchartrain Shores,48,Indefinido,2016-06-26
+2016-06-26 19:41:00,06-26-2016 19:50,Negocio,Kenner,Kenner,22,Indefinido,2016-06-26
+2016-06-26 21:14:00,06-26-2016 21:42,Negocio,Kenner,New Orleans,13,Indefinido,2016-06-26
+2016-06-27 07:37:00,06-27-2016 8:48,Negocio,New Orleans,Covington,469,Indefinido,2016-06-27
+2016-06-27 08:51:00,06-27-2016 9:00,Negocio,Covington,Covington,25,Indefinido,2016-06-27
+2016-06-27 09:05:00,06-27-2016 9:33,Negocio,Covington,Covington,86,Indefinido,2016-06-27
+2016-06-27 09:43:00,06-27-2016 10:08,Negocio,Covington,Covington,52,Indefinido,2016-06-27
+2016-06-27 10:22:00,06-27-2016 10:39,Negocio,Covington,Covington,76,Indefinido,2016-06-27
+2016-06-27 10:51:00,06-27-2016 10:58,Negocio,Covington,Covington,18,Indefinido,2016-06-27
+2016-06-27 11:06:00,06-27-2016 11:24,Negocio,Covington,Mandeville,47,Indefinido,2016-06-27
+2016-06-27 11:30:00,06-27-2016 11:42,Negocio,Mandeville,Mandeville,28,Indefinido,2016-06-27
+2016-06-27 12:22:00,06-27-2016 13:02,Negocio,Mandeville,Metairie,30,Indefinido,2016-06-27
+2016-06-27 13:56:00,06-27-2016 14:05,Negocio,Metairie,Kenner,44,Indefinido,2016-06-27
+2016-06-27 21:09:00,06-27-2016 21:19,Negocio,Jamestown Court,Jamestown Court,1,Indefinido,2016-06-27
+2016-06-28 00:48:00,06-28-2016 1:05,Negocio,Morrisville,Cary,82,Visita Ao Cliente,2016-06-28
+2016-06-28 20:13:00,06-28-2016 20:33,Negocio,Cary,Durham,104,Reunião,2016-06-28
+2016-06-28 23:34:00,06-28-2016 23:59,Negocio,Durham,Cary,99,Reunião,2016-06-28
+2016-06-28 23:34:00,06-28-2016 23:59,Negocio,Durham,Cary,99,Reunião,2016-06-28
+2016-06-29 08:56:00,06-29-2016 9:24,Negocio,Cary,Morrisville,73,Indefinido,2016-06-29
+2016-06-29 10:22:00,06-29-2016 10:38,Negocio,Morrisville,Cary,74,Indefinido,2016-06-29
+2016-06-29 11:49:00,06-29-2016 11:51,Negocio,Whitebridge,Westpark Place,16,Indefinido,2016-06-29
+2016-06-29 12:11:00,06-29-2016 12:16,Negocio,Westpark Place,Whitebridge,18,Indefinido,2016-06-29
+2016-06-29 20:11:00,06-29-2016 20:29,Negocio,Cary,Durham,104,Reunião,2016-06-29
+2016-06-29 23:38:00,06-30-2016 0:00,Negocio,Durham,Cary,99,Reunião,2016-06-29
+2016-06-30 20:09:00,06-30-2016 20:26,Negocio,Cary,Durham,99,Reunião,2016-06-30
+2016-07-01 00:00:00,07-01-2016 00:25,Negocio,Durham,Cary,99,Reunião,2016-07-01
+2016-07-01 09:34:00,07-01-2016 09:57,Negocio,Cary,Raleigh,133,Reunião,2016-07-01
+2016-07-01 12:36:00,07-01-2016 13:00,Negocio,Raleigh,Cary,113,Reunião,2016-07-01
+2016-07-01 20:06:00,07-01-2016 20:24,Negocio,Cary,Durham,105,Reunião,2016-07-01
+2016-07-01 23:48:00,07-02-2016 00:09,Negocio,Durham,Cary,99,Reunião,2016-07-01
+2016-07-02 20:18:00,07-02-2016 20:36,Negocio,Cary,Durham,101,Reunião,2016-07-02
+2016-07-02 23:48:00,07-03-2016 00:12,Negocio,Durham,Cary,99,Reunião,2016-07-02
+2016-07-03 00:28:00,07-03-2016 00:38,Negocio,Cary,Morrisville,31,Entregas,2016-07-03
+2016-07-03 03:02:00,07-03-2016 03:08,Negocio,Morrisville,Cary,31,Entregas,2016-07-03
+2016-07-03 20:00:00,07-03-2016 20:18,Negocio,Cary,Durham,99,Reunião,2016-07-03
+2016-07-04 00:32:00,07-04-2016 00:47,Negocio,Durham,Cary,99,Reunião,2016-07-04
+2016-07-04 17:31:00,07-04-2016 17:49,Negocio,Whitebridge,Summerwinds,88,Reunião,2016-07-04
+2016-07-04 18:23:00,07-04-2016 18:49,Negocio,Summerwinds,Whitebridge,87,Parada Temporária,2016-07-04
+2016-07-04 20:00:00,07-04-2016 20:17,Negocio,Cary,Durham,118,Reunião,2016-07-04
+2016-07-05 00:00:00,07-05-2016 00:05,Negocio,Parkwood,Parkwood,12,Entregas,2016-07-05
+2016-07-05 00:08:00,07-05-2016 00:28,Negocio,Durham,Cary,99,Reunião,2016-07-05
+2016-07-05 16:48:00,07-05-2016 16:52,Negocio,Whitebridge,Whitebridge,6,Entregas,2016-07-05
+2016-07-05 20:06:00,07-05-2016 20:26,Negocio,Cary,Durham,99,Indefinido,2016-07-05
+2016-07-05 22:41:00,07-05-2016 23:02,Negocio,Durham,Morrisville,86,Indefinido,2016-07-05
+2016-07-06 00:33:00,07-06-2016 00:53,Negocio,Morrisville,Cary,63,Alimentação,2016-07-06
+2016-07-06 09:06:00,07-06-2016 09:25,Negocio,Cary,Durham,99,Reunião,2016-07-06
+2016-07-06 12:48:00,07-06-2016 13:08,Negocio,Durham,Cary,99,Indefinido,2016-07-06
+2016-07-06 20:04:00,07-06-2016 20:14,Negocio,Cary,Morrisville,33,Alimentação,2016-07-06
+2016-07-06 23:46:00,07-06-2016 23:59,Negocio,Morrisville,Cary,31,Visita Ao Cliente,2016-07-06
+2016-07-07 08:22:00,07-07-2016 08:50,Negocio,Cary,Morrisville,79,Parada Temporária,2016-07-07
+2016-07-07 10:27:00,07-07-2016 10:33,Negocio,Morrisville,Cary,89,Indefinido,2016-07-07
+2016-07-07 12:59:00,07-07-2016 13:35,Negocio,Kenner,New Orleans,128,Indefinido,2016-07-07
+2016-07-08 09:50:00,07-08-2016 10:13,Negocio,CBD,Pontchartrain Beach,77,Indefinido,2016-07-08
+2016-07-08 10:51:00,07-08-2016 11:12,Negocio,Pontchartrain Beach,CBD,7,Indefinido,2016-07-08
+2016-07-08 13:48:00,07-08-2016 14:11,Negocio,New Orleans,Metairie,125,Indefinido,2016-07-08
+2016-07-08 17:11:00,07-08-2016 17:30,Negocio,Kenner,New Orleans,132,Indefinido,2016-07-08
+2016-07-09 09:03:00,07-09-2016 09:46,Negocio,New Orleans,Kenner,13,Indefinido,2016-07-09
+2016-07-09 09:52:00,07-09-2016 10:06,Negocio,Kenner,Metairie,49,Indefinido,2016-07-09
+2016-07-09 10:15:00,07-09-2016 10:33,Negocio,Metairie,New Orleans,85,Indefinido,2016-07-09
+2016-07-10 14:10:00,07-10-2016 14:17,Negocio,CBD,St Thomas,13,Indefinido,2016-07-10
+2016-07-10 16:04:00,07-10-2016 16:15,Negocio,St Thomas,CBD,18,Indefinido,2016-07-10
+2016-07-10 18:05:00,07-10-2016 18:21,Negocio,New Orleans,Kenner,136,Indefinido,2016-07-10
+2016-07-10 19:51:00,07-10-2016 20:08,Negocio,Kenner,New Orleans,134,Indefinido,2016-07-10
+2016-07-12 16:10:00,07-12-2016 16:45,Negocio,New Orleans,Kenner,123,Indefinido,2016-07-12
+2016-07-12 19:21:00,07-12-2016 19:26,Pessoal,Kenner,Kenner,14,Indefinido,2016-07-12
+2016-07-12 23:47:00,07-13-2016 0:11,Pessoal,Morrisville,Cary,87,Indefinido,2016-07-12
+2016-07-13 12:39:00,07-13-2016 13:20,Pessoal,Cary,Morrisville,235,Indefinido,2016-07-13
+2016-07-13 13:25:00,07-13-2016 13:39,Pessoal,Morrisville,Morrisville,22,Indefinido,2016-07-13
+2016-07-13 13:42:00,07-13-2016 13:54,Pessoal,Morrisville,Cary,44,Indefinido,2016-07-13
+2016-07-14 15:51:00,07-14-2016 15:59,Pessoal,Cary,Morrisville,33,Indefinido,2016-07-14
+2016-07-14 16:03:00,07-14-2016 16:34,Negocio,Morrisville,Morrisville,118,Entregas,2016-07-14
+2016-07-14 16:39:00,07-14-2016 20:05,Negocio,Morrisville,Banner Elk,1953,Indefinido,2016-07-14
+2016-07-15 11:32:00,07-15-2016 11:53,Pessoal,Banner Elk,Banner Elk,83,Indefinido,2016-07-15
+2016-07-15 12:09:00,07-15-2016 12:19,Pessoal,Banner Elk,Banner Elk,32,Indefinido,2016-07-15
+2016-07-15 12:35:00,07-15-2016 13:15,Pessoal,Banner Elk,Elk Park,224,Indefinido,2016-07-15
+2016-07-15 15:03:00,07-15-2016 15:33,Pessoal,Elk Park,Banner Elk,122,Indefinido,2016-07-15
+2016-07-15 15:40:00,07-15-2016 15:52,Pessoal,Banner Elk,Banner Elk,45,Indefinido,2016-07-15
+2016-07-16 13:14:00,07-16-2016 14:10,Pessoal,Banner Elk,Newland,281,Indefinido,2016-07-16
+2016-07-16 14:14:00,07-16-2016 14:30,Pessoal,Newland,Newland,38,Indefinido,2016-07-16
+2016-07-16 15:29:00,07-16-2016 16:57,Pessoal,Newland,Boone,419,Indefinido,2016-07-16
+2016-07-16 19:42:00,07-16-2016 20:35,Pessoal,Boone,Banner Elk,238,Indefinido,2016-07-16
+2016-07-16 21:45:00,07-16-2016 22:18,Pessoal,Banner Elk,Banner Elk,13,Indefinido,2016-07-16
+2016-07-16 22:50:00,07-16-2016 23:03,Negocio,Banner Elk,Banner Elk,44,Entregas,2016-07-16
+2016-07-17 11:23:00,07-17-2016 11:50,Pessoal,Banner Elk,Boone,151,Caridade,2016-07-17
+2016-07-17 12:20:00,07-17-2016 15:25,Pessoal,Boone,Cary,1802,Deslocamento,2016-07-17
+2016-07-18 10:37:00,07-18-2016 10:49,Pessoal,Cary,Morrisville,41,Deslocamento,2016-07-18
+2016-07-18 10:54:00,07-18-2016 11:15,Pessoal,Morrisville,Cary,61,Deslocamento,2016-07-18
+2016-07-18 11:25:00,07-18-2016 11:36,Pessoal,Northwoods,Preston,33,Deslocamento,2016-07-18
+2016-07-18 11:40:00,07-18-2016 11:56,Pessoal,Preston,Whitebridge,47,Deslocamento,2016-07-18
+2016-07-18 17:12:00,07-18-2016 17:33,Negocio,Cary,Apex,72,Reunião,2016-07-18
+2016-07-18 18:32:00,07-18-2016 18:47,Negocio,Apex,Cary,55,Alimentação,2016-07-18
+2016-07-18 19:07:00,07-18-2016 19:14,Negocio,Cary,Morrisville,33,Alimentação,2016-07-18
+2016-07-18 20:28:00,07-18-2016 20:32,Negocio,Hazelwood,Weston,9,Entregas,2016-07-18
+2016-07-18 21:11:00,07-18-2016 21:19,Negocio,Morrisville,Cary,38,Alimentação,2016-07-18
+2016-07-19 10:35:00,07-19-2016 10:51,Negocio,Whitebridge,Stonewater,64,Visita Ao Cliente,2016-07-19
+2016-07-19 10:56:00,07-19-2016 11:11,Negocio,Stonewater,Lexington Park at Amberly,3,Reunião,2016-07-19
+2016-07-19 11:30:00,07-19-2016 12:00,Negocio,Lexington Park at Amberly,Whitebridge,87,Alimentação,2016-07-19
+2016-07-19 17:14:00,07-19-2016 17:24,Negocio,Whitebridge,Chessington,39,Entregas,2016-07-19
+2016-07-19 17:50:00,07-19-2016 18:08,Pessoal,Chessington,Whitebridge,48,Indefinido,2016-07-19
+2016-07-20 17:12:00,07-20-2016 17:24,Pessoal,Whitebridge,Edgehill Farms,28,Indefinido,2016-07-20
+2016-07-20 17:50:00,07-20-2016 17:57,Pessoal,Edgehill Farms,Preston,14,Indefinido,2016-07-20
+2016-07-20 18:16:00,07-20-2016 18:20,Pessoal,Preston,Whitebridge,14,Indefinido,2016-07-20
+2016-07-21 17:17:00,07-21-2016 17:23,Negocio,Whitebridge,Edgehill Farms,27,Indefinido,2016-07-21
+2016-07-21 17:42:00,07-21-2016 17:51,Negocio,Edgehill Farms,Burtrose,23,Indefinido,2016-07-21
+2016-07-21 18:27:00,07-21-2016 18:42,Negocio,Cary,Morrisville,37,Indefinido,2016-07-21
+2016-07-21 19:30:00,07-21-2016 19:39,Negocio,Morrisville,Cary,29,Indefinido,2016-07-21
+2016-07-22 10:42:00,07-22-2016 10:53,Negocio,Cary,Morrisville,38,Indefinido,2016-07-22
+2016-07-22 11:11:00,07-22-2016 11:25,Negocio,Morrisville,Cary,51,Indefinido,2016-07-22
+2016-07-22 11:37:00,07-22-2016 12:00,Negocio,Hazelwood,Lexington Park at Amberly,91,Indefinido,2016-07-22
+2016-07-22 12:14:00,07-22-2016 12:31,Negocio,Cary,Durham,8,Indefinido,2016-07-22
+2016-07-22 13:21:00,07-22-2016 13:42,Negocio,Durham,Cary,99,Reunião,2016-07-22
+2016-07-22 14:27:00,07-22-2016 14:43,Negocio,Cary,Morrisville,61,Alimentação,2016-07-22
+2016-07-22 15:49:00,07-22-2016 16:22,Negocio,Morrisville,Cary,122,Indefinido,2016-07-22
+2016-07-22 18:33:00,07-22-2016 18:51,Negocio,Wayne Ridge,Whitebridge,8,Indefinido,2016-07-22
+2016-07-23 14:27:00,07-23-2016 14:44,Negocio,Cary,Morrisville,4,Indefinido,2016-07-23
+2016-07-23 14:48:00,07-23-2016 15:12,Negocio,Morrisville,Cary,95,Indefinido,2016-07-23
+2016-07-23 15:15:00,07-23-2016 15:27,Negocio,Cary,Morrisville,3,Indefinido,2016-07-23
+2016-07-23 15:50:00,07-23-2016 16:10,Negocio,Morrisville,Cary,63,Indefinido,2016-07-23
+2016-07-23 20:17:00,07-23-2016 20:33,Negocio,Cary,Durham,104,Reunião,2016-07-23
+2016-07-23 23:18:00,07-23-2016 23:43,Negocio,Durham,Cary,99,Reunião,2016-07-23
+2016-07-25 10:35:00,07-25-2016 10:41,Negocio,Whitebridge,Parkway,15,Indefinido,2016-07-25
+2016-07-25 10:47:00,07-25-2016 10:58,Negocio,Cary,Morrisville,49,Indefinido,2016-07-25
+2016-07-25 11:04:00,07-25-2016 11:33,Negocio,Morrisville,Cary,79,Indefinido,2016-07-25
+2016-07-25 11:37:00,07-25-2016 11:44,Negocio,Parkway,Whitebridge,17,Indefinido,2016-07-25
+2016-07-26 15:43:00,07-26-2016 15:49,Negocio,Whitebridge,Westpark Place,22,Indefinido,2016-07-26
+2016-07-26 17:14:00,07-26-2016 17:24,Negocio,Westpark Place,Whitebridge,21,Indefinido,2016-07-26
+2016-07-26 20:52:00,07-26-2016 21:00,Negocio,Cary,Morrisville,25,Alimentação,2016-07-26
+2016-07-26 22:31:00,07-26-2016 22:39,Negocio,Morrisville,Cary,25,Alimentação,2016-07-26
+2016-07-27 19:08:00,07-27-2016 19:20,Negocio,Cary,Morrisville,28,Indefinido,2016-07-27
+2016-07-27 21:34:00,07-27-2016 21:57,Negocio,Morrisville,Raleigh,147,Indefinido,2016-07-27
+2016-07-27 22:00:00,07-27-2016 22:26,Negocio,Raleigh,Morrisville,146,Indefinido,2016-07-27
+2016-07-28 00:04:00,07-28-2016 0:09,Negocio,Morrisville,Cary,23,Indefinido,2016-07-28
+2016-07-29 15:45:00,07-29-2016 15:47,Negocio,Whitebridge,Westpark Place,22,Indefinido,2016-07-29
+2016-07-29 17:27:00,07-29-2016 17:45,Negocio,Westpark Place,Whitebridge,22,Alimentação,2016-07-29
+2016-07-30 17:02:00,07-30-2016 17:27,Negocio,Cary,Durham,14,Indefinido,2016-07-30
+2016-07-30 21:16:00,07-30-2016 21:41,Negocio,Durham,Cary,133,Indefinido,2016-07-30
+2016-07-31 17:30:00,07-31-2016 17:37,Negocio,Westpark Place,Whitebridge,18,Indefinido,2016-07-31
+2016-08-01 12:47:00,08-01-2016 13:04,Negocio,Whitebridge,Arlington Park at Amberly,62,Indefinido,2016-08-01
+2016-08-01 13:08:00,08-01-2016 13:19,Negocio,Arlington Park at Amberly,Lexington Park at Amberly,13,Indefinido,2016-08-01
+2016-08-01 13:28:00,08-01-2016 13:46,Negocio,Lexington Park at Amberly,Westpark Place,19,Indefinido,2016-08-01
+2016-08-01 13:52:00,08-01-2016 14:14,Negocio,Cary,Apex,69,Indefinido,2016-08-01
+2016-08-01 15:40:00,08-01-2016 15:47,Negocio,Apex,Cary,46,Indefinido,2016-08-01
+2016-08-01 16:18:00,08-01-2016 16:25,Negocio,Whitebridge,Edgehill Farms,28,Indefinido,2016-08-01
+2016-08-01 16:29:00,08-01-2016 16:59,Negocio,Cary,Morrisville,91,Indefinido,2016-08-01
+2016-08-01 17:23:00,08-01-2016 17:55,Negocio,Morrisville,Cary,81,Indefinido,2016-08-01
+2016-08-02 08:11:00,08-02-2016 08:32,Negocio,Cary,Morrisville,84,Reunião,2016-08-02
+2016-08-02 11:51:00,08-02-2016 12:15,Negocio,Arlington,Washington,49,Indefinido,2016-08-02
+2016-08-02 19:15:00,08-02-2016 19:23,Negocio,Kalorama Triangle,K Street,1,Indefinido,2016-08-02
+2016-08-02 21:23:00,08-02-2016 21:29,Negocio,K Street,Kalorama Triangle,1,Indefinido,2016-08-02
+2016-08-03 12:46:00,08-03-2016 13:00,Negocio,West End,Northwest Rectangle,2,Indefinido,2016-08-03
+2016-08-03 14:59:00,08-03-2016 15:03,Negocio,K Street,Kalorama Triangle,11,Indefinido,2016-08-03
+2016-08-03 16:00:00,08-03-2016 16:04,Negocio,Kalorama Triangle,Downtown,15,Indefinido,2016-08-03
+2016-08-05 17:23:00,08-05-2016 17:30,Negocio,Connecticut Avenue,Kalorama Triangle,13,Indefinido,2016-08-05
+2016-08-05 18:17:00,08-05-2016 18:21,Negocio,Kalorama Triangle,Columbia Heights,18,Indefinido,2016-08-05
+2016-08-05 19:17:00,08-05-2016 19:27,Negocio,Columbia Heights,Kalorama Triangle,15,Indefinido,2016-08-05
+2016-08-06 06:40:00,08-06-2016 06:58,Negocio,Washington,Arlington,66,Indefinido,2016-08-06
+2016-08-06 09:31:00,08-06-2016 09:53,Negocio,Morrisville,Cary,8,Indefinido,2016-08-06
+2016-08-07 17:14:00,08-07-2016 17:23,Negocio,Whitebridge,Edgehill Farms,27,Indefinido,2016-08-07
+2016-08-07 17:28:00,08-07-2016 17:43,Negocio,Edgehill Farms,Whitebridge,27,Visita Ao Cliente,2016-08-07
+2016-08-07 18:17:00,08-07-2016 18:23,Negocio,Cary,Morrisville,25,Indefinido,2016-08-07
+2016-08-07 20:15:00,08-07-2016 20:23,Negocio,Morrisville,Cary,25,Alimentação,2016-08-07
+2016-08-08 16:17:00,08-08-2016 16:31,Negocio,Whitebridge,Farmington Woods,52,Indefinido,2016-08-08
+2016-08-08 16:37:00,08-08-2016 16:50,Negocio,Farmington Woods,Edgehill Farms,4,Indefinido,2016-08-08
+2016-08-08 17:02:00,08-08-2016 17:13,Negocio,Edgehill Farms,Whitebridge,27,Visita Ao Cliente,2016-08-08
+2016-08-08 21:50:00,08-08-2016 22:15,Negocio,Cary,Morrisville,48,Indefinido,2016-08-08
+2016-08-08 23:28:00,08-08-2016 23:37,Negocio,Morrisville,Cary,32,Visita Ao Cliente,2016-08-08
+2016-08-09 14:20:00,08-09-2016 14:38,Negocio,Whitebridge,Waverly Place,69,Indefinido,2016-08-09
+2016-08-09 15:15:00,08-09-2016 15:36,Negocio,Cary,Raleigh,149,Indefinido,2016-08-09
+2016-08-09 16:04:00,08-09-2016 16:37,Negocio,Raleigh,Cary,174,Indefinido,2016-08-09
+2016-08-10 16:56:00,08-10-2016 17:24,Negocio,Cary,Durham,129,Indefinido,2016-08-10
+2016-08-10 17:53:00,08-10-2016 18:28,Negocio,Durham,Apex,153,Indefinido,2016-08-10
+2016-08-10 18:49:00,08-10-2016 18:50,Negocio,Apex,Apex,1,Indefinido,2016-08-10
+2016-08-10 19:47:00,08-10-2016 20:02,Negocio,Apex,Cary,6,Indefinido,2016-08-10
+2016-08-11 12:53:00,08-11-2016 13:00,Negocio,Whitebridge,Heritage Pines,22,Indefinido,2016-08-11
+2016-08-11 13:14:00,08-11-2016 13:28,Negocio,Heritage Pines,Edgehill Farms,44,Indefinido,2016-08-11
+2016-08-11 13:32:00,08-11-2016 13:42,Negocio,Edgehill Farms,Whitebridge,28,Indefinido,2016-08-11
+2016-08-11 18:37:00,08-11-2016 19:29,Negocio,Cary,Wake Forest,317,Indefinido,2016-08-11
+2016-08-11 20:59:00,08-11-2016 21:44,Negocio,Wake Forest,Cary,319,Indefinido,2016-08-11
+2016-08-12 18:49:00,08-12-2016 18:52,Negocio,Whitebridge,Westpark Place,19,Indefinido,2016-08-12
+2016-08-12 18:56:00,08-12-2016 19:05,Negocio,Westpark Place,Whitebridge,18,Indefinido,2016-08-12
+2016-08-13 15:35:00,08-13-2016 15:58,Negocio,Cary,Morrisville,84,Reunião,2016-08-13
+2016-08-15 09:05:00,08-15-2016 9:52,Negocio,R?walpindi,Unknown Location,156,Indefinido,2016-08-15
+2016-08-15 15:20:00,08-15-2016 15:47,Negocio,Unknown Location,Unknown Location,141,Indefinido,2016-08-15
+2016-08-15 16:52:00,08-15-2016 17:30,Negocio,Unknown Location,Unknown Location,157,Indefinido,2016-08-15
+2016-08-15 19:08:00,08-15-2016 20:30,Negocio,Unknown Location,Unknown Location,259,Parada Temporária,2016-08-15
+2016-08-16 07:58:00,08-16-2016 8:11,Negocio,Unknown Location,Unknown Location,79,Indefinido,2016-08-16
+2016-08-16 08:16:00,08-16-2016 8:23,Negocio,Unknown Location,Unknown Location,27,Indefinido,2016-08-16
+2016-08-16 08:46:00,08-16-2016 8:53,Negocio,Unknown Location,Unknown Location,55,Indefinido,2016-08-16
+2016-08-16 10:06:00,08-16-2016 10:27,Negocio,Unknown Location,Islamabad,57,Indefinido,2016-08-16
+2016-08-16 10:31:00,08-16-2016 10:38,Negocio,Islamabad,Islamabad,12,Indefinido,2016-08-16
+2016-08-16 11:47:00,08-16-2016 12:03,Negocio,Islamabad,Unknown Location,57,Parada Temporária,2016-08-16
+2016-08-16 15:13:00,08-16-2016 15:36,Negocio,Unknown Location,Unknown Location,162,Indefinido,2016-08-16
+2016-08-17 10:17:00,08-17-2016 10:41,Negocio,Unknown Location,Unknown Location,26,Indefinido,2016-08-17
+2016-08-17 10:57:00,08-17-2016 11:20,Negocio,Unknown Location,Unknown Location,121,Indefinido,2016-08-17
+2016-08-17 14:45:00,08-17-2016 14:50,Negocio,Unknown Location,R?walpindi,14,Indefinido,2016-08-17
+2016-08-17 15:32:00,08-17-2016 15:47,Negocio,R?walpindi,Islamabad,64,Indefinido,2016-08-17
+2016-08-17 16:29:00,08-17-2016 16:50,Negocio,Islamabad,Unknown Location,73,Indefinido,2016-08-17
+2016-08-17 16:54:00,08-17-2016 17:00,Negocio,Unknown Location,Unknown Location,53,Indefinido,2016-08-17
+2016-08-17 17:05:00,08-17-2016 17:34,Negocio,Unknown Location,Unknown Location,55,Indefinido,2016-08-17
+2016-08-17 18:38:00,08-17-2016 18:57,Negocio,Unknown Location,Unknown Location,77,Parada Temporária,2016-08-17
+2016-08-18 18:40:00,08-18-2016 19:07,Negocio,Unknown Location,Unknown Location,76,Parada Temporária,2016-08-18
+2016-08-19 08:24:00,08-19-2016 8:45,Negocio,Unknown Location,Noorpur Shahan,76,Indefinido,2016-08-19
+2016-08-19 08:54:00,08-19-2016 9:07,Negocio,Noorpur Shahan,Islamabad,33,Indefinido,2016-08-19
+2016-08-19 09:27:00,08-19-2016 9:47,Negocio,Islamabad,R?walpindi,65,Indefinido,2016-08-19
+2016-08-19 10:57:00,08-19-2016 11:06,Negocio,R?walpindi,Unknown Location,2,Indefinido,2016-08-19
+2016-08-19 12:07:00,08-19-2016 12:24,Negocio,Unknown Location,Islamabad,57,Indefinido,2016-08-19
+2016-08-19 15:51:00,08-19-2016 16:06,Negocio,Islamabad,Islamabad,32,Indefinido,2016-08-19
+2016-08-19 17:12:00,08-19-2016 17:52,Negocio,Islamabad,Unknown Location,125,Indefinido,2016-08-19
+2016-08-21 10:00:00,08-21-2016 10:29,Negocio,Unknown Location,Unknown Location,76,Aeroporto/Viagem,2016-08-21
+2016-08-21 14:05:00,08-21-2016 14:34,Negocio,Unknown Location,Unknown Location,77,Indefinido,2016-08-21
+2016-08-21 16:30:00,08-21-2016 17:02,Negocio,Unknown Location,Islamabad,122,Indefinido,2016-08-21
+2016-08-21 18:10:00,08-21-2016 18:17,Negocio,Islamabad,Islamabad,14,Indefinido,2016-08-21
+2016-08-21 18:48:00,08-21-2016 19:24,Negocio,Islamabad,Unknown Location,202,Indefinido,2016-08-21
+2016-08-22 10:00:00,08-22-2016 10:44,Negocio,Unknown Location,Islamabad,98,Indefinido,2016-08-22
+2016-08-22 11:07:00,08-22-2016 11:23,Negocio,Islamabad,Unknown Location,63,Indefinido,2016-08-22
+2016-08-22 12:36:00,08-22-2016 12:49,Negocio,Unknown Location,Islamabad,49,Indefinido,2016-08-22
+2016-08-22 13:02:00,08-22-2016 13:11,Negocio,Islamabad,Islamabad,15,Indefinido,2016-08-22
+2016-08-22 14:07:00,08-22-2016 14:31,Negocio,Islamabad,Unknown Location,109,Indefinido,2016-08-22
+2016-08-22 15:14:00,08-22-2016 15:49,Negocio,Unknown Location,Unknown Location,19,Indefinido,2016-08-22
+2016-08-22 15:59:00,08-22-2016 17:16,Negocio,Unknown Location,Unknown Location,19,Indefinido,2016-08-22
+2016-08-22 19:58:00,08-22-2016 20:50,Negocio,Unknown Location,R?walpindi,79,Indefinido,2016-08-22
+2016-08-22 20:53:00,08-22-2016 21:31,Negocio,R?walpindi,R?walpindi,41,Indefinido,2016-08-22
+2016-08-22 22:31:00,08-22-2016 23:00,Negocio,R?walpindi,Unknown Location,187,Indefinido,2016-08-22
+2016-08-23 08:10:00,08-23-2016 8:25,Negocio,Unknown Location,Noorpur Shahan,87,Indefinido,2016-08-23
+2016-08-23 09:35:00,08-23-2016 10:09,Negocio,Noorpur Shahan,Unknown Location,75,Indefinido,2016-08-23
+2016-08-23 12:59:00,08-23-2016 13:15,Negocio,Unknown Location,Noorpur Shahan,77,Indefinido,2016-08-23
+2016-08-23 13:19:00,08-23-2016 13:30,Negocio,Noorpur Shahan,Islamabad,44,Indefinido,2016-08-23
+2016-08-23 13:49:00,08-23-2016 14:04,Negocio,Islamabad,Unknown Location,5,Indefinido,2016-08-23
+2016-08-23 15:07:00,08-23-2016 15:12,Negocio,Unknown Location,Unknown Location,19,Indefinido,2016-08-23
+2016-08-23 15:15:00,08-23-2016 17:16,Negocio,Unknown Location,Unknown Location,79,Indefinido,2016-08-23
+2016-08-23 17:42:00,08-23-2016 18:31,Negocio,Unknown Location,Unknown Location,177,Indefinido,2016-08-23
+2016-08-24 12:05:00,08-24-2016 12:56,Negocio,Unknown Location,Unknown Location,252,Indefinido,2016-08-24
+2016-08-24 13:01:00,08-24-2016 15:25,Negocio,Unknown Location,Unknown Location,962,Indefinido,2016-08-24
+2016-08-25 15:17:00,08-25-2016 16:22,Negocio,Unknown Location,Unknown Location,35,Indefinido,2016-08-25
+2016-08-25 16:36:00,08-25-2016 16:56,Negocio,Unknown Location,Unknown Location,55,Indefinido,2016-08-25
+2016-08-25 17:19:00,08-25-2016 19:20,Negocio,Unknown Location,Unknown Location,504,Indefinido,2016-08-25
+2016-08-25 19:25:00,08-25-2016 19:57,Negocio,Unknown Location,Lahore,92,Indefinido,2016-08-25
+2016-08-25 22:58:00,08-25-2016 23:16,Negocio,Lahore,Unknown Location,73,Indefinido,2016-08-25
+2016-08-26 09:06:00,08-26-2016 9:20,Negocio,Unknown Location,Unknown Location,5,Indefinido,2016-08-26
+2016-08-26 11:14:00,08-26-2016 11:26,Negocio,Unknown Location,Unknown Location,38,Indefinido,2016-08-26
+2016-08-26 12:10:00,08-26-2016 12:20,Negocio,Unknown Location,Lahore,39,Indefinido,2016-08-26
+2016-08-26 14:10:00,08-26-2016 14:33,Negocio,Lahore,Lahore,74,Indefinido,2016-08-26
+2016-08-26 15:23:00,08-26-2016 15:35,Negocio,Lahore,Lahore,15,Indefinido,2016-08-26
+2016-08-26 15:59:00,08-26-2016 16:24,Negocio,Lahore,Unknown Location,79,Indefinido,2016-08-26
+2016-08-26 16:55:00,08-26-2016 17:12,Negocio,Unknown Location,Lahore,29,Indefinido,2016-08-26
+2016-08-26 18:42:00,08-26-2016 18:56,Negocio,Lahore,Lahore,34,Indefinido,2016-08-26
+2016-08-26 19:31:00,08-26-2016 19:54,Negocio,Lahore,Lahore,38,Indefinido,2016-08-26
+2016-08-26 20:06:00,08-26-2016 20:16,Negocio,Lahore,Unknown Location,59,Indefinido,2016-08-26
+2016-08-27 09:34:00,08-27-2016 10:11,Negocio,Unknown Location,Lahore,96,Indefinido,2016-08-27
+2016-08-27 11:47:00,08-27-2016 12:06,Negocio,Lahore,Lahore,7,Indefinido,2016-08-27
+2016-08-27 12:12:00,08-27-2016 12:17,Negocio,Lahore,Lahore,9,Indefinido,2016-08-27
+2016-08-27 14:01:00,08-27-2016 15:44,Negocio,Lahore,Unknown Location,866,Indefinido,2016-08-27
+2016-08-27 16:15:00,08-27-2016 19:13,Negocio,Unknown Location,Unknown Location,1569,Indefinido,2016-08-27
+2016-08-28 09:57:00,08-28-2016 10:18,Negocio,Unknown Location,Noorpur Shahan,101,Indefinido,2016-08-28
+2016-08-28 16:39:00,08-28-2016 16:55,Negocio,Noorpur Shahan,Islamabad,62,Indefinido,2016-08-28
+2016-08-28 17:37:00,08-28-2016 17:55,Negocio,Islamabad,Islamabad,53,Indefinido,2016-08-28
+2016-08-28 21:15:00,08-28-2016 21:59,Negocio,Islamabad,Unknown Location,121,Indefinido,2016-08-28
+2016-08-29 12:02:00,08-29-2016 12:31,Negocio,Unknown Location,Islamabad,108,Indefinido,2016-08-29
+2016-08-29 13:38:00,08-29-2016 13:48,Negocio,Islamabad,Islamabad,43,Indefinido,2016-08-29
+2016-08-29 14:31:00,08-29-2016 14:41,Negocio,Islamabad,Islamabad,25,Indefinido,2016-08-29
+2016-08-29 14:49:00,08-29-2016 15:04,Negocio,Islamabad,Unknown Location,57,Parada Temporária,2016-08-29
+2016-08-29 15:49:00,08-29-2016 15:59,Negocio,Unknown Location,Islamabad,28,Indefinido,2016-08-29
+2016-08-29 16:06:00,08-29-2016 16:21,Negocio,Islamabad,Unknown Location,4,Indefinido,2016-08-29
+2016-08-29 17:24:00,08-29-2016 17:41,Negocio,Unknown Location,Islamabad,55,Indefinido,2016-08-29
+2016-08-29 18:27:00,08-29-2016 18:36,Negocio,Islamabad,Islamabad,26,Indefinido,2016-08-29
+2016-08-30 11:53:00,08-30-2016 12:05,Negocio,Unknown Location,Unknown Location,21,Indefinido,2016-08-30
+2016-08-30 12:46:00,08-30-2016 13:09,Negocio,Unknown Location,Islamabad,88,Indefinido,2016-08-30
+2016-08-30 13:25:00,08-30-2016 13:46,Negocio,Islamabad,Islamabad,44,Indefinido,2016-08-30
+2016-08-30 14:00:00,08-30-2016 14:20,Negocio,Islamabad,Unknown Location,53,Indefinido,2016-08-30
+2016-08-30 17:27:00,08-30-2016 18:09,Negocio,Unknown Location,Unknown Location,13,Indefinido,2016-08-30
+2016-09-01 11:51:00,09-01-2016 12:24,Negocio,Unknown Location,Islamabad,13,Indefinido,2016-09-01
+2016-09-01 17:21:00,09-01-2016 17:36,Negocio,Islamabad,Unknown Location,106,Indefinido,2016-09-01
+2016-09-01 18:49:00,09-01-2016 19:08,Negocio,Unknown Location,Unknown Location,22,Indefinido,2016-09-01
+2016-09-02 11:37:00,09-02-2016 12:24,Negocio,Unknown Location,Islamabad,92,Indefinido,2016-09-02
+2016-09-02 18:56:00,09-02-2016 19:37,Negocio,Unknown Location,Unknown Location,129,Indefinido,2016-09-02
+2016-09-05 10:25:00,09-05-2016 10:44,Negocio,Unknown Location,R?walpindi,172,Indefinido,2016-09-05
+2016-09-06 17:49:00,09-06-2016 17:49,Negocio,Unknown Location,Unknown Location,691,Indefinido,2016-09-06
+2016-09-10 10:28:00,09-10-2016 10:45,Negocio,Unknown Location,Unknown Location,28,Indefinido,2016-09-10
+2016-09-11 09:51:00,09-11-2016 09:55,Negocio,Unknown Location,Unknown Location,86,Indefinido,2016-09-11
+2016-09-11 21:40:00,09-11-2016 21:42,Negocio,Unknown Location,Unknown Location,98,Indefinido,2016-09-11
+2016-09-12 08:07:00,09-12-2016 08:12,Negocio,Unknown Location,Unknown Location,36,Indefinido,2016-09-12
+2016-09-12 11:15:00,09-12-2016 11:24,Negocio,Unknown Location,Unknown Location,17,Indefinido,2016-09-12
+2016-09-12 13:04:00,09-12-2016 13:44,Negocio,Unknown Location,Unknown Location,115,Indefinido,2016-09-12
+2016-09-13 16:56:00,09-13-2016 17:02,Negocio,Unknown Location,Unknown Location,7,Indefinido,2016-09-13
+2016-09-14 11:55:00,09-14-2016 11:59,Negocio,Unknown Location,Unknown Location,7,Indefinido,2016-09-14
+2016-09-15 20:33:00,09-15-2016 20:38,Negocio,Unknown Location,Unknown Location,9,Indefinido,2016-09-15
+2016-09-16 07:08:00,09-16-2016 7:08,Negocio,Unknown Location,Unknown Location,16,Indefinido,2016-09-16
+2016-09-18 18:07:00,09-18-2016 18:11,Negocio,Unknown Location,Unknown Location,94,Indefinido,2016-09-18
+2016-09-19 06:18:00,09-19-2016 6:49,Negocio,R?walpindi,Unknown Location,182,Indefinido,2016-09-19
+2016-09-19 14:40:00,09-19-2016 14:56,Negocio,Unknown Location,Islamabad,105,Indefinido,2016-09-19
+2016-09-19 16:23:00,09-19-2016 16:31,Negocio,Islamabad,Unknown Location,57,Indefinido,2016-09-19
+2016-09-19 17:36:00,09-19-2016 18:20,Negocio,Unknown Location,Unknown Location,18,Indefinido,2016-09-19
+2016-09-19 19:10:00,09-19-2016 19:49,Negocio,Unknown Location,Islamabad,183,Indefinido,2016-09-19
+2016-09-20 11:29:00,09-20-2016 11:48,Negocio,Islamabad,Unknown Location,165,Indefinido,2016-09-20
+2016-09-20 20:47:00,09-20-2016 22:47,Negocio,Unknown Location,R?walpindi,96,Indefinido,2016-09-20
+2016-09-23 13:15:00,09-23-2016 13:40,Negocio,Karchi,Karchi,29,Indefinido,2016-09-23
+2016-09-24 14:34:00,09-24-2016 15:15,Negocio,Karchi,Unknown Location,82,Indefinido,2016-09-24
+2016-09-24 20:29:00,09-24-2016 20:33,Negocio,Unknown Location,Unknown Location,24,Indefinido,2016-09-24
+2016-09-27 08:33:00,09-27-2016 8:35,Negocio,Unknown Location,Unknown Location,58,Indefinido,2016-09-27
+2016-09-27 13:21:00,09-27-2016 14:43,Negocio,Lahore,Lahore,98,Indefinido,2016-09-27
+2016-09-27 19:14:00,09-27-2016 20:34,Negocio,Lahore,Unknown Location,73,Indefinido,2016-09-27
+2016-09-27 21:01:00,09-28-2016 2:37,Negocio,Unknown Location,Unknown Location,1956,Indefinido,2016-09-27
+2016-09-28 17:21:00,09-28-2016 19:36,Negocio,Islamabad,Unknown Location,205,Indefinido,2016-09-28
+2016-09-29 16:13:00,09-29-2016 18:47,Negocio,Unknown Location,Islamabad,126,Indefinido,2016-09-29
+2016-09-30 17:39:00,09-30-2016 20:20,Negocio,Islamabad,Islamabad,377,Indefinido,2016-09-30
+2016-09-30 20:59:00,09-30-2016 22:34,Negocio,Islamabad,Unknown Location,167,Indefinido,2016-09-30
+2016-10-03 17:09:00,10-03-2016 17:12,Negocio,Unknown Location,Islamabad,105,Indefinido,2016-10-03
+2016-10-03 18:17:00,10-03-2016 18:34,Negocio,Islamabad,Islamabad,28,Indefinido,2016-10-03
+2016-10-03 18:51:00,10-03-2016 19:01,Negocio,Islamabad,Islamabad,16,Indefinido,2016-10-03
+2016-10-03 22:04:00,10-03-2016 22:33,Negocio,Islamabad,Unknown Location,127,Indefinido,2016-10-03
+2016-10-04 09:50:00,10-04-2016 10:52,Negocio,Unknown Location,Unknown Location,286,Indefinido,2016-10-04
+2016-10-04 12:17:00,10-04-2016 12:18,Negocio,Unknown Location,Unknown Location,151,Indefinido,2016-10-04
+2016-10-06 08:49:00,10-06-2016 11:36,Negocio,Unknown Location,R?walpindi,179,Indefinido,2016-10-06
+2016-10-06 17:23:00,10-06-2016 17:40,Negocio,R?walpindi,Unknown Location,1126,Indefinido,2016-10-06
+2016-10-06 18:37:00,10-06-2016 18:39,Negocio,Unknown Location,Unknown Location,184,Indefinido,2016-10-06
+2016-10-06 19:46:00,10-06-2016 20:26,Negocio,Unknown Location,Unknown Location,138,Indefinido,2016-10-06
+2016-10-07 10:56:00,10-07-2016 10:59,Negocio,Unknown Location,Lahore,332,Indefinido,2016-10-07
+2016-10-07 11:27:00,10-07-2016 11:50,Negocio,Lahore,Lahore,26,Indefinido,2016-10-07
+2016-10-07 13:52:00,10-07-2016 14:08,Negocio,Lahore,Unknown Location,58,Indefinido,2016-10-07
+2016-10-07 14:29:00,10-07-2016 15:11,Negocio,Unknown Location,Lahore,83,Indefinido,2016-10-07
+2016-10-07 15:47:00,10-07-2016 16:02,Negocio,Lahore,Lahore,24,Indefinido,2016-10-07
+2016-10-07 18:08:00,10-07-2016 18:27,Negocio,Lahore,Lahore,31,Indefinido,2016-10-07
+2016-10-07 18:33:00,10-07-2016 19:01,Negocio,Lahore,Lahore,61,Indefinido,2016-10-07
+2016-10-08 15:03:00,10-08-2016 15:03,Negocio,Karchi,Karchi,36,Indefinido,2016-10-08
+2016-10-08 18:15:00,10-08-2016 18:18,Negocio,Karchi,Unknown Location,8,Indefinido,2016-10-08
+2016-10-09 14:04:00,10-09-2016 14:23,Negocio,Unknown Location,Unknown Location,77,Parada Temporária,2016-10-09
+2016-10-10 17:22:00,10-10-2016 17:28,Negocio,Islamabad,Islamabad,17,Indefinido,2016-10-10
+2016-10-10 17:33:00,10-10-2016 18:13,Negocio,Islamabad,Unknown Location,95,Indefinido,2016-10-10
+2016-10-11 01:27:00,10-11-2016 02:08,Negocio,Unknown Location,R?walpindi,171,Reunião,2016-10-11
+2016-10-12 19:18:00,10-12-2016 19:21,Negocio,R?walpindi,Unknown Location,184,Indefinido,2016-10-12
+2016-10-13 11:20:00,10-13-2016 11:58,Negocio,Unknown Location,Islamabad,98,Indefinido,2016-10-13
+2016-10-13 12:08:00,10-13-2016 12:14,Negocio,Islamabad,Islamabad,1,Indefinido,2016-10-13
+2016-10-13 13:02:00,10-13-2016 13:02,Negocio,Islamabad,Islamabad,7,Indefinido,2016-10-13
+2016-10-13 13:37:00,10-13-2016 13:46,Negocio,Islamabad,Islamabad,23,Indefinido,2016-10-13
+2016-10-13 16:08:00,10-13-2016 16:53,Negocio,Islamabad,Unknown Location,109,Indefinido,2016-10-13
+2016-10-14 08:50:00,10-14-2016 9:44,Negocio,Unknown Location,R?walpindi,127,Indefinido,2016-10-14
+2016-10-14 10:16:00,10-14-2016 10:52,Negocio,R?walpindi,Unknown Location,124,Indefinido,2016-10-14
+2016-10-14 15:56:00,10-14-2016 16:20,Negocio,Unknown Location,Unknown Location,38,Indefinido,2016-10-14
+2016-10-14 23:54:00,10-15-2016 2:06,Negocio,Unknown Location,R?walpindi,17,Reunião,2016-10-14
+2016-10-15 22:28:00,10-15-2016 22:48,Negocio,Morrisville,Morrisville,62,Indefinido,2016-10-15
+2016-10-16 00:01:00,10-16-2016 0:14,Negocio,Morrisville,Cary,31,Indefinido,2016-10-16
+2016-10-16 12:52:00,10-16-2016 13:11,Negocio,Cary,Durham,105,Reunião,2016-10-16
+2016-10-16 14:40:00,10-16-2016 15:01,Negocio,Durham,Morrisville,81,Indefinido,2016-10-16
+2016-10-16 15:10:00,10-16-2016 15:19,Negocio,Morrisville,Cary,31,Indefinido,2016-10-16
+2016-10-16 19:27:00,10-16-2016 19:33,Negocio,Whitebridge,Parkway,21,Reunião,2016-10-16
+2016-10-16 20:30:00,10-16-2016 20:39,Negocio,Cary,Morrisville,43,Indefinido,2016-10-16
+2016-10-16 21:34:00,10-16-2016 21:41,Negocio,Morrisville,Cary,25,Alimentação,2016-10-16
+2016-10-17 15:19:00,10-17-2016 15:57,Negocio,Cary,Raleigh,206,Indefinido,2016-10-17
+2016-10-17 16:29:00,10-17-2016 17:11,Negocio,Raleigh,Cary,176,Indefinido,2016-10-17
+2016-10-17 18:02:00,10-17-2016 18:16,Negocio,Cary,Apex,56,Indefinido,2016-10-17
+2016-10-17 18:31:00,10-17-2016 18:45,Negocio,Apex,Apex,33,Indefinido,2016-10-17
+2016-10-17 19:08:00,10-17-2016 19:25,Negocio,Apex,Cary,53,Indefinido,2016-10-17
+2016-10-18 08:12:00,10-18-2016 8:22,Negocio,Whitebridge,Edgehill Farms,33,Indefinido,2016-10-18
+2016-10-18 08:53:00,10-18-2016 9:02,Negocio,Edgehill Farms,Whitebridge,33,Indefinido,2016-10-18
+2016-10-18 10:41:00,10-18-2016 11:09,Negocio,Cary,Morrisville,79,Parada Temporária,2016-10-18
+2016-10-18 18:12:00,10-18-2016 18:33,Negocio,Oakland,Emeryville,13,Indefinido,2016-10-18
+2016-10-18 19:03:00,10-18-2016 19:13,Negocio,Emeryville,Berkeley,3,Indefinido,2016-10-18
+2016-10-18 20:31:00,10-18-2016 20:37,Negocio,Berkeley,Emeryville,3,Indefinido,2016-10-18
+2016-10-19 09:33:00,10-19-2016 9:47,Negocio,Emeryville,Oakland,38,Indefinido,2016-10-19
+2016-10-19 09:54:00,10-19-2016 10:21,Negocio,Oakland,San Francisco,95,Indefinido,2016-10-19
+2016-10-19 13:45:00,10-19-2016 13:56,Negocio,SOMISSPO,French Quarter,17,Indefinido,2016-10-19
+2016-10-19 14:02:00,10-19-2016 14:31,Negocio,San Francisco,Berkeley,108,Indefinido,2016-10-19
+2016-10-19 15:44:00,10-19-2016 16:02,Negocio,West Berkeley,North Berkeley Hills,41,Indefinido,2016-10-19
+2016-10-19 16:06:00,10-19-2016 16:19,Negocio,North Berkeley Hills,Southside,22,Indefinido,2016-10-19
+2016-10-19 16:33:00,10-19-2016 17:01,Negocio,Berkeley,Emeryville,46,Indefinido,2016-10-19
+2016-10-20 11:26:00,10-20-2016 11:34,Negocio,Emeryville,Berkeley,31,Indefinido,2016-10-20
+2016-10-20 12:19:00,10-20-2016 13:17,Negocio,Berkeley,San Jose,477,Indefinido,2016-10-20
+2016-10-20 20:44:00,10-20-2016 21:37,Negocio,San Jose,Emeryville,446,Indefinido,2016-10-20
+2016-10-21 10:06:00,10-21-2016 10:21,Negocio,Emeryville,Oakland,132,Indefinido,2016-10-21
+2016-10-22 00:54:00,10-22-2016 1:09,Negocio,Morrisville,Cary,87,Indefinido,2016-10-22
+2016-10-22 13:26:00,10-22-2016 14:03,Negocio,Cary,Raleigh,172,Indefinido,2016-10-22
+2016-10-22 17:08:00,10-22-2016 17:55,Negocio,Raleigh,Cary,14,Indefinido,2016-10-22
+2016-10-23 09:24:00,10-23-2016 10:05,Negocio,Cary,Raleigh,281,Indefinido,2016-10-23
+2016-10-23 12:17:00,10-23-2016 12:59,Negocio,Raleigh,Cary,282,Indefinido,2016-10-23
+2016-10-23 19:04:00,10-23-2016 19:14,Negocio,Cary,Morrisville,31,Alimentação,2016-10-23
+2016-10-23 21:10:00,10-23-2016 21:25,Negocio,Morrisville,Cary,31,Visita Ao Cliente,2016-10-23
+2016-10-24 14:57:00,10-24-2016 15:26,Negocio,Cary,Durham,164,Indefinido,2016-10-24
+2016-10-24 15:33:00,10-24-2016 16:13,Negocio,Durham,Morrisville,154,Indefinido,2016-10-24
+2016-10-24 16:34:00,10-24-2016 16:41,Negocio,Morrisville,Cary,22,Indefinido,2016-10-24
+2016-10-25 13:27:00,10-25-2016 14:08,Negocio,Cary,Apex,112,Indefinido,2016-10-25
+2016-10-25 15:04:00,10-25-2016 15:11,Negocio,Apex,Eagle Rock,22,Indefinido,2016-10-25
+2016-10-25 15:16:00,10-25-2016 15:33,Negocio,Eagle Rock,Cary,36,Indefinido,2016-10-25
+2016-10-25 20:00:00,10-25-2016 20:11,Negocio,Whitebridge,Savon Height,36,Alimentação,2016-10-25
+2016-10-25 20:54:00,10-25-2016 21:03,Negocio,Savon Height,Parkway,49,Indefinido,2016-10-25
+2016-10-25 22:24:00,10-25-2016 22:45,Negocio,Parkway,Whitebridge,87,Entregas,2016-10-25
+2016-10-26 19:25:00,10-26-2016 19:31,Negocio,Whitebridge,Parkway,21,Reunião,2016-10-26
+2016-10-26 20:53:00,10-26-2016 21:03,Negocio,Parkway,Whitebridge,21,Indefinido,2016-10-26
+2016-10-27 18:51:00,10-27-2016 19:16,Negocio,Cary,Morrisville,84,Reunião,2016-10-27
+2016-10-27 19:20:00,10-27-2016 19:35,Negocio,Morrisville,Morrisville,59,Indefinido,2016-10-27
+2016-10-27 19:52:00,10-27-2016 20:21,Negocio,Huntington Woods,Huntington Woods,121,Indefinido,2016-10-27
+2016-10-27 20:47:00,10-27-2016 20:54,Negocio,Huntington Woods,Weston,39,Indefinido,2016-10-27
+2016-10-27 21:26:00,10-27-2016 21:48,Negocio,Morrisville,Cary,62,Indefinido,2016-10-27
+2016-10-28 11:34:00,10-28-2016 11:52,Negocio,Cary,Durham,104,Reunião,2016-10-28
+2016-10-28 13:06:00,10-28-2016 13:36,Negocio,Durham,Cary,99,Reunião,2016-10-28
+2016-10-28 15:53:00,10-28-2016 17:59,Negocio,Cary,Winston Salem,107,Reunião,2016-10-28
+2016-10-28 18:13:00,10-28-2016 20:07,Negocio,Winston Salem,Asheville,1336,Reunião,2016-10-28
+2016-10-28 20:13:00,10-28-2016 22:00,Negocio,Asheville,Topton,918,Reunião,2016-10-28
+2016-10-29 15:22:00,10-29-2016 17:05,Negocio,Topton,Hayesville,407,Reunião,2016-10-29
+2016-10-29 17:13:00,10-29-2016 19:19,Negocio,Hayesville,Topton,757,Indefinido,2016-10-29
+2016-10-30 07:49:00,10-30-2016 8:30,Negocio,Topton,Bryson City,298,Indefinido,2016-10-30
+2016-10-30 09:07:00,10-30-2016 10:09,Negocio,Bryson City,Bryson City,163,Indefinido,2016-10-30
+2016-10-30 10:11:00,10-30-2016 10:38,Negocio,Bryson City,Bryson City,65,Indefinido,2016-10-30
+2016-10-30 10:51:00,10-30-2016 11:21,Negocio,Bryson City,Bryson City,63,Indefinido,2016-10-30
+2016-10-30 12:24:00,10-30-2016 12:35,Negocio,Bryson City,Almond,66,Indefinido,2016-10-30
+2016-10-30 12:58:00,10-30-2016 13:18,Negocio,Almond,Bryson City,152,Indefinido,2016-10-30
+2016-10-30 13:24:00,10-30-2016 14:37,Negocio,Bryson City,Asheville,684,Indefinido,2016-10-30
+2016-10-30 15:22:00,10-30-2016 18:23,Negocio,Asheville,Mebane,1959,Indefinido,2016-10-30
+2016-10-30 18:26:00,10-30-2016 19:39,Negocio,Mebane,Cary,452,Indefinido,2016-10-30
+2016-10-31 18:11:00,10-31-2016 18:20,Negocio,Cary,Morrisville,32,Indefinido,2016-10-31
+2016-10-31 18:47:00,10-31-2016 19:16,Negocio,Morrisville,Raleigh,103,Indefinido,2016-10-31
+2016-10-31 20:18:00,10-31-2016 20:44,Negocio,Raleigh,Cary,131,Indefinido,2016-10-31
+2016-10-31 21:45:00,10-31-2016 22:10,Negocio,Savon Height,Whitebridge,96,Entregas,2016-10-31
+2016-11-01 11:50:00,11-01-2016 12:27,Negocio,Cary,Durham,165,Indefinido,2016-11-01
+2016-11-01 16:29:00,11-01-2016 17:02,Negocio,Durham,Cary,128,Indefinido,2016-11-01
+2016-11-01 17:35:00,11-01-2016 17:42,Negocio,Whitebridge,Whitebridge,12,Indefinido,2016-11-01
+2016-11-01 19:14:00,11-01-2016 19:20,Negocio,Whitebridge,Whitebridge,1,Indefinido,2016-11-01
+2016-11-01 19:59:00,11-01-2016 20:12,Negocio,Whitebridge,Whitebridge,41,Indefinido,2016-11-01
+2016-11-01 20:41:00,11-01-2016 20:55,Negocio,Whitebridge,Whitebridge,42,Alimentação,2016-11-01
+2016-11-02 15:10:00,11-02-2016 15:18,Negocio,Whitebridge,Westpark Place,14,Indefinido,2016-11-02
+2016-11-02 15:45:00,11-02-2016 15:52,Negocio,Westpark Place,Whitebridge,18,Indefinido,2016-11-02
+2016-11-02 16:46:00,11-02-2016 17:11,Negocio,Cary,Morrisville,85,Reunião,2016-11-02
+2016-11-02 17:34:00,11-02-2016 17:49,Negocio,Morrisville,Morrisville,5,Indefinido,2016-11-02
+2016-11-02 17:53:00,11-02-2016 18:00,Negocio,Morrisville,Cary,38,Indefinido,2016-11-02
+2016-11-03 11:28:00,11-03-2016 11:34,Negocio,Whitebridge,Hazelwood,25,Indefinido,2016-11-03
+2016-11-03 12:43:00,11-03-2016 12:49,Negocio,Hazelwood,Whitebridge,24,Indefinido,2016-11-03
+2016-11-03 13:42:00,11-03-2016 13:47,Negocio,Whitebridge,Westpark Place,14,Indefinido,2016-11-03
+2016-11-03 14:13:00,11-03-2016 14:26,Negocio,Westpark Place,Whitebridge,18,Indefinido,2016-11-03
+2016-11-03 18:51:00,11-03-2016 19:08,Negocio,Cary,Morrisville,31,Alimentação,2016-11-03
+2016-11-03 22:46:00,11-03-2016 22:58,Negocio,Morrisville,Cary,31,Visita Ao Cliente,2016-11-03
+2016-11-04 10:02:00,11-04-2016 10:18,Negocio,Cary,Morrisville,79,Parada Temporária,2016-11-04
+2016-11-04 18:14:00,11-04-2016 18:21,Negocio,San Jose,Santa Clara,38,Indefinido,2016-11-04
+2016-11-04 21:04:00,11-04-2016 21:20,Negocio,Agnew,Cory,43,Indefinido,2016-11-04
+2016-11-04 22:12:00,11-04-2016 22:25,Negocio,Cory,Agnew,39,Indefinido,2016-11-04
+2016-11-05 08:34:00,11-05-2016 08:43,Negocio,Agnew,Renaissance,22,Indefinido,2016-11-05
+2016-11-05 17:29:00,11-05-2016 17:40,Negocio,Renaissance,Agnew,28,Indefinido,2016-11-05
+2016-11-05 19:20:00,11-05-2016 19:28,Negocio,Agnew,Agnew,22,Indefinido,2016-11-05
+2016-11-06 10:50:00,11-06-2016 11:04,Negocio,Agnew,Renaissance,24,Indefinido,2016-11-06
+2016-11-06 16:05:00,11-06-2016 16:22,Negocio,Renaissance,Agnew,28,Reunião,2016-11-06
+2016-11-06 16:27:00,11-06-2016 17:28,Negocio,Santa Clara,Berkeley,439,Visita Ao Cliente,2016-11-06
+2016-11-06 19:04:00,11-06-2016 19:12,Negocio,Downtown,West Berkeley,18,Indefinido,2016-11-06
+2016-11-06 20:06:00,11-06-2016 20:21,Negocio,West Berkeley,Central,33,Indefinido,2016-11-06
+2016-11-07 12:28:00,11-07-2016 12:57,Negocio,Berkeley,San Francisco,118,Entre Escritórios,2016-11-07
+2016-11-07 19:17:00,11-07-2016 19:57,Negocio,San Francisco,Berkeley,132,Entre Escritórios,2016-11-07
+2016-11-08 10:29:00,11-08-2016 10:57,Negocio,Berkeley,San Francisco,122,Entre Escritórios,2016-11-08
+2016-11-08 12:16:00,11-08-2016 12:49,Negocio,San Francisco,Berkeley,113,Reunião,2016-11-08
+2016-11-08 13:41:00,11-08-2016 14:01,Negocio,Berkeley,Emeryville,36,Indefinido,2016-11-08
+2016-11-08 16:21:00,11-08-2016 16:34,Negocio,Emeryville,Berkeley,3,Indefinido,2016-11-08
+2016-11-09 13:08:00,11-09-2016 13:41,Negocio,Berkeley,San Francisco,114,Indefinido,2016-11-09
+2016-11-09 15:58:00,11-09-2016 16:04,Negocio,NOMA,Downtown,9,Indefinido,2016-11-09
+2016-11-09 17:31:00,11-09-2016 18:03,Negocio,Downtown,Sunnyside,62,Indefinido,2016-11-09
+2016-11-09 18:09:00,11-09-2016 18:14,Negocio,Sunnyside,Ingleside,7,Indefinido,2016-11-09
+2016-11-09 18:21:00,11-09-2016 18:35,Negocio,Ingleside,Potrero Flats,55,Reunião,2016-11-09
+2016-11-09 18:40:00,11-09-2016 19:17,Negocio,San Francisco,Oakland,127,Visita Ao Cliente,2016-11-09
+2016-11-09 20:52:00,11-09-2016 21:02,Negocio,Oakland,Berkeley,26,Indefinido,2016-11-09
+2016-11-09 21:56:00,11-09-2016 22:02,Negocio,Central,Central,11,Indefinido,2016-11-09
+2016-11-10 09:46:00,11-10-2016 10:15,Negocio,Berkeley,San Francisco,126,Parada Temporária,2016-11-10
+2016-11-10 10:20:00,11-10-2016 10:31,Negocio,Tenderloin,SOMISSPO,12,Indefinido,2016-11-10
+2016-11-10 14:57:00,11-10-2016 15:07,Negocio,SOMISSPO,Tenderloin,11,Indefinido,2016-11-10
+2016-11-10 15:17:00,11-10-2016 15:22,Negocio,San Francisco,Oakland,99,Parada Temporária,2016-11-10
+2016-11-10 15:30:00,11-10-2016 15:53,Negocio,Oakland,Berkeley,6,Reunião,2016-11-10
+2016-11-10 19:18:00,11-10-2016 19:21,Negocio,West Berkeley,Central,8,Indefinido,2016-11-10
+2016-11-11 09:35:00,11-11-2016 10:23,Negocio,Berkeley,Menlo Park,459,Visita Ao Cliente,2016-11-11
+2016-11-11 12:58:00,11-11-2016 13:13,Negocio,Menlo Park,Palo Alto,4,Indefinido,2016-11-11
+2016-11-11 14:20:00,11-11-2016 14:32,Negocio,Palo Alto,Menlo Park,25,Indefinido,2016-11-11
+2016-11-11 14:39:00,11-11-2016 15:46,Negocio,Menlo Park,Berkeley,366,Visita Ao Cliente,2016-11-11
+2016-11-11 18:30:00,11-11-2016 18:43,Negocio,Central,College Avenue,29,Indefinido,2016-11-11
+2016-11-11 21:08:00,11-11-2016 21:18,Negocio,College Avenue,Central,26,Indefinido,2016-11-11
+2016-11-12 10:32:00,11-12-2016 10:52,Negocio,Central,South,23,Indefinido,2016-11-12
+2016-11-12 10:55:00,11-12-2016 11:25,Negocio,South,Downtown,64,Indefinido,2016-11-12
+2016-11-12 13:07:00,11-12-2016 13:15,Negocio,Downtown,Central,14,Indefinido,2016-11-12
+2016-11-12 13:46:00,11-12-2016 13:50,Negocio,Central,West Berkeley,6,Indefinido,2016-11-12
+2016-11-12 14:22:00,11-12-2016 14:53,Negocio,West Berkeley,South,59,Reunião,2016-11-12
+2016-11-12 15:14:00,11-12-2016 15:21,Negocio,South,Southwest Berkeley,8,Indefinido,2016-11-12
+2016-11-12 15:25:00,11-12-2016 15:36,Negocio,Berkeley,Emeryville,13,Indefinido,2016-11-12
+2016-11-12 15:40:00,11-12-2016 15:59,Negocio,Emeryville,Berkeley,37,Entregas,2016-11-12
+2016-11-13 08:54:00,11-13-2016 9:02,Negocio,Central,Central,23,Indefinido,2016-11-13
+2016-11-13 09:27:00,11-13-2016 9:53,Negocio,Central,Central,26,Indefinido,2016-11-13
+2016-11-13 10:31:00,11-13-2016 10:37,Negocio,Central,Southside,19,Indefinido,2016-11-13
+2016-11-13 11:04:00,11-13-2016 11:16,Negocio,Southside,West Berkeley,21,Indefinido,2016-11-13
+2016-11-13 12:22:00,11-13-2016 12:51,Negocio,West Berkeley,Southside,4,Reunião,2016-11-13
+2016-11-13 13:05:00,11-13-2016 13:11,Negocio,Southside,South Berkeley,9,Indefinido,2016-11-13
+2016-11-13 13:14:00,11-13-2016 13:18,Negocio,South Berkeley,Southside,9,Indefinido,2016-11-13
+2016-11-13 14:35:00,11-13-2016 14:46,Negocio,Southside,Central,24,Indefinido,2016-11-13
+2016-11-13 15:14:00,11-13-2016 15:24,Negocio,Central,Southside,19,Indefinido,2016-11-13
+2016-11-13 15:47:00,11-13-2016 15:59,Negocio,Southside,Central,19,Indefinido,2016-11-13
+2016-11-13 11:24:00,11-13-2016 12:13,Negocio,Berkeley,Mountain View,446,Visita Ao Cliente,2016-11-13
+2016-11-13 13:40:00,11-13-2016 14:33,Negocio,Mountain View,Berkeley,436,Visita Ao Cliente,2016-11-13
+2016-11-13 15:27:00,11-13-2016 15:36,Negocio,Berkeley,Emeryville,25,Indefinido,2016-11-13
+2016-11-13 20:19:00,11-13-2016 20:30,Negocio,Emeryville,Berkeley,37,Entregas,2016-11-13
+2016-11-15 13:59:00,11-15-2016 14:06,Negocio,Berkeley,Oakland,51,Indefinido,2016-11-15
+2016-11-15 14:09:00,11-15-2016 14:26,Negocio,Oakland,San Francisco,97,Parada Temporária,2016-11-15
+2016-11-15 20:44:00,11-15-2016 21:00,Negocio,San Francisco,Berkeley,118,Parada Temporária,2016-11-15
+2016-11-16 20:21:00,11-16-2016 20:27,Negocio,Berkeley,El Cerrito,23,Parada Temporária,2016-11-16
+2016-11-16 22:52:00,11-16-2016 23:02,Negocio,El Cerrito,Berkeley,31,Alimentação,2016-11-16
+2016-11-17 10:13:00,11-17-2016 10:44,Negocio,Berkeley,Oakland,163,Visita Ao Cliente,2016-11-17
+2016-11-18 20:09:00,11-18-2016 20:19,Negocio,Cary,Morrisville,31,Alimentação,2016-11-18
+2016-11-18 21:23:00,11-18-2016 21:34,Negocio,Morrisville,Cary,52,Alimentação,2016-11-18
+2016-11-18 21:56:00,11-18-2016 22:21,Negocio,Krendle Woods,Whitebridge,61,Reunião,2016-11-18
+2016-11-19 13:51:00,11-19-2016 14:10,Negocio,Cary,Durham,103,Reunião,2016-11-19
+2016-11-19 14:30:00,11-19-2016 14:51,Negocio,Durham,Cary,105,Reunião,2016-11-19
+2016-11-19 16:01:00,11-19-2016 16:06,Negocio,Cary,Cary,15,Indefinido,2016-11-19
+2016-11-19 16:27:00,11-19-2016 16:41,Negocio,Cary,Cary,18,Indefinido,2016-11-19
+2016-11-19 17:41:00,11-19-2016 17:54,Negocio,Cary,Apex,54,Entregas,2016-11-19
+2016-11-19 21:14:00,11-19-2016 21:35,Negocio,Apex,Cary,54,Visita Ao Cliente,2016-11-19
+2016-11-20 10:27:00,11-20-2016 11:32,Negocio,Cary,Cary,392,Entre Escritórios,2016-11-20
+2016-11-20 11:58:00,11-20-2016 12:28,Negocio,Cary,Cary,64,Visita Ao Cliente,2016-11-20
+2016-11-20 14:58:00,11-20-2016 15:07,Negocio,Cary,Cary,27,Reunião,2016-11-20
+2016-11-20 17:45:00,11-20-2016 18:37,Negocio,Cary,Cary,185,Entregas,2016-11-20
+2016-11-21 13:37:00,11-21-2016 13:49,Negocio,Cary,Cary,25,Alimentação,2016-11-21
+2016-11-21 14:34:00,11-21-2016 14:44,Negocio,Cary,Cary,21,Alimentação,2016-11-21
+2016-11-21 17:50:00,11-21-2016 18:04,Negocio,Cary,Unknown Location,67,Entregas,2016-11-21
+2016-11-21 18:18:00,11-21-2016 18:27,Negocio,Unknown Location,Morrisville,35,Alimentação,2016-11-21
+2016-11-21 18:43:00,11-21-2016 18:51,Negocio,Morrisville,Cary,34,Entregas,2016-11-21
+2016-11-22 15:12:00,11-22-2016 15:27,Negocio,Cary,Cary,55,Reunião,2016-11-22
+2016-11-22 15:31:00,11-22-2016 15:44,Negocio,Cary,Cary,41,Reunião,2016-11-22
+2016-11-22 15:51:00,11-22-2016 16:43,Negocio,Cary,Cary,127,Visita Ao Cliente,2016-11-22
+2016-11-22 18:18:00,11-22-2016 18:28,Negocio,Cary,Morrisville,3,Alimentação,2016-11-22
+2016-11-22 21:02:00,11-22-2016 21:14,Negocio,Morrisville,Cary,35,Visita Ao Cliente,2016-11-22
+2016-11-23 15:34:00,11-23-2016 15:50,Negocio,Cary,Cary,59,Alimentação,2016-11-23
+2016-11-23 16:18:00,11-23-2016 16:29,Negocio,Cary,Cary,19,Indefinido,2016-11-23
+2016-11-23 16:49:00,11-23-2016 17:00,Negocio,Cary,Cary,33,Indefinido,2016-11-23
+2016-11-23 18:37:00,11-23-2016 18:47,Negocio,Cary,Cary,13,Indefinido,2016-11-23
+2016-11-25 11:47:00,11-25-2016 12:04,Negocio,Cary,Durham,103,Reunião,2016-11-25
+2016-11-25 13:13:00,11-25-2016 13:31,Negocio,Durham,Cary,111,Reunião,2016-11-25
+2016-11-26 15:54:00,11-26-2016 15:59,Negocio,Cary,Cary,14,Indefinido,2016-11-26
+2016-11-26 17:00:00,11-26-2016 17:12,Negocio,Cary,Apex,51,Reunião,2016-11-26
+2016-11-26 17:36:00,11-26-2016 17:56,Negocio,Apex,Holly Springs,9,Reunião,2016-11-26
+2016-11-26 18:29:00,11-26-2016 19:04,Negocio,Holly Springs,Cary,133,Entre Escritórios,2016-11-26
+2016-11-26 19:47:00,11-26-2016 19:54,Negocio,Cary,Cary,25,Entregas,2016-11-26
+2016-11-27 15:59:00,11-27-2016 16:06,Negocio,Cary,Morrisville,33,Alimentação,2016-11-27
+2016-11-27 18:55:00,11-27-2016 19:09,Negocio,Morrisville,Cary,29,Indefinido,2016-11-27
+2016-11-30 11:03:00,11-30-2016 11:34,Negocio,Cary,Raleigh,85,Visita Ao Cliente,2016-11-30
+2016-11-30 11:53:00,11-30-2016 12:35,Negocio,Raleigh,Morrisville,67,Parada Temporária,2016-11-30
+2016-11-30 12:43:00,11-30-2016 12:53,Negocio,Morrisville,Cary,31,Indefinido,2016-11-30
+2016-12-01 07:44:00,12-01-2016 07:59,Negocio,Cary,Cary,55,Reunião,2016-12-01
+2016-12-01 08:37:00,12-01-2016 08:53,Negocio,Cary,Cary,55,Entregas,2016-12-01
+2016-12-01 18:00:00,12-01-2016 18:12,Negocio,Cary,Morrisville,29,Alimentação,2016-12-01
+2016-12-01 20:36:00,12-01-2016 20:46,Negocio,Morrisville,Cary,29,Visita Ao Cliente,2016-12-01
+2016-12-02 12:12:00,12-02-2016 12:23,Negocio,Cary,Apex,51,Alimentação,2016-12-02
+2016-12-02 13:07:00,12-02-2016 13:22,Negocio,Apex,Cary,53,Visita Ao Cliente,2016-12-02
+2016-12-02 20:41:00,12-02-2016 20:48,Negocio,Cary,Morrisville,33,Alimentação,2016-12-02
+2016-12-02 22:59:00,12-02-2016 23:07,Negocio,Morrisville,Cary,3,Visita Ao Cliente,2016-12-02
+2016-12-03 18:35:00,12-03-2016 18:56,Negocio,Cary,Wake Co.,66,Entregas,2016-12-03
+2016-12-03 19:08:00,12-03-2016 19:15,Negocio,Wake Co.,Morrisville,18,Indefinido,2016-12-03
+2016-12-03 20:31:00,12-03-2016 20:41,Negocio,Morrisville,Cary,3,Visita Ao Cliente,2016-12-03
+2016-12-04 18:56:00,12-04-2016 19:03,Negocio,Cary,Morrisville,29,Alimentação,2016-12-04
+2016-12-04 20:23:00,12-04-2016 20:34,Negocio,Morrisville,Cary,34,Visita Ao Cliente,2016-12-04
+2016-12-05 18:04:00,12-05-2016 18:17,Negocio,Cary,Cary,41,Indefinido,2016-12-05
+2016-12-05 19:22:00,12-05-2016 19:37,Negocio,Cary,Cary,38,Alimentação,2016-12-05
+2016-12-07 12:03:00,12-07-2016 12:32,Negocio,Cary,Cary,66,Reunião,2016-12-07
+2016-12-07 12:35:00,12-07-2016 12:46,Negocio,Cary,Cary,4,Reunião,2016-12-07
+2016-12-07 19:53:00,12-07-2016 20:13,Negocio,Cary,Cary,7,Visita Ao Cliente,2016-12-07
+2016-12-07 21:13:00,12-07-2016 21:50,Negocio,Cary,Cary,69,Alimentação,2016-12-07
+2016-12-08 14:19:00,12-08-2016 14:32,Negocio,Cary,Cary,34,Entregas,2016-12-08
+2016-12-08 14:53:00,12-08-2016 15:02,Negocio,Cary,Cary,34,Entregas,2016-12-08
+2016-12-08 19:22:00,12-08-2016 19:27,Negocio,Cary,Cary,2,Reunião,2016-12-08
+2016-12-08 21:26:00,12-08-2016 21:31,Negocio,Cary,Cary,2,Entregas,2016-12-08
+2016-12-09 12:09:00,12-09-2016 12:24,Negocio,Cary,Apex,51,Entregas,2016-12-09
+2016-12-09 13:15:00,12-09-2016 13:43,Negocio,Apex,Cary,88,Parada Temporária,2016-12-09
+2016-12-09 20:11:00,12-09-2016 20:34,Negocio,Cary,Cary,56,Reunião,2016-12-09
+2016-12-09 22:03:00,12-09-2016 22:57,Negocio,Cary,Cary,189,Visita Ao Cliente,2016-12-09
+2016-12-10 12:43:00,12-10-2016 13:16,Negocio,Cary,Fuquay-Varina,156,Reunião,2016-12-10
+2016-12-10 14:42:00,12-10-2016 15:18,Negocio,Fuquay-Varina,Cary,156,Entregas,2016-12-10
+2016-12-10 18:17:00,12-10-2016 18:27,Negocio,Cary,Morrisville,3,Alimentação,2016-12-10
+2016-12-10 22:09:00,12-10-2016 22:21,Negocio,Morrisville,Cary,31,Visita Ao Cliente,2016-12-10
+2016-12-11 16:06:00,12-11-2016 16:16,Negocio,Cary,Morrisville,3,Alimentação,2016-12-11
+2016-12-11 19:05:00,12-11-2016 19:15,Negocio,Morrisville,Cary,48,Entregas,2016-12-11
+2016-12-11 21:48:00,12-11-2016 21:56,Negocio,Cary,Cary,21,Entregas,2016-12-11
+2016-12-12 13:22:00,12-12-2016 13:32,Negocio,Cary,Cary,31,Entregas,2016-12-12
+2016-12-12 13:36:00,12-12-2016 13:51,Negocio,Cary,Apex,44,Alimentação,2016-12-12
+2016-12-12 14:26:00,12-12-2016 14:39,Negocio,Apex,Cary,47,Visita Ao Cliente,2016-12-12
+2016-12-12 17:51:00,12-12-2016 18:01,Negocio,Cary,Morrisville,3,Alimentação,2016-12-12
+2016-12-12 20:48:00,12-12-2016 20:57,Negocio,Morrisville,Cary,3,Visita Ao Cliente,2016-12-12
+2016-12-13 18:19:00,12-13-2016 18:29,Negocio,Cary,Cary,42,Entregas,2016-12-13
+2016-12-13 20:20:00,12-13-2016 20:29,Negocio,Cary,Cary,41,Alimentação,2016-12-13
+2016-12-14 16:52:00,12-14-2016 17:10,Negocio,Cary,Cary,34,Indefinido,2016-12-14
+2016-12-14 17:22:00,12-14-2016 17:34,Negocio,Cary,Cary,33,Indefinido,2016-12-14
+2016-12-14 17:50:00,12-14-2016 18:00,Negocio,Cary,Morrisville,3,Alimentação,2016-12-14
+2016-12-14 20:24:00,12-14-2016 20:40,Negocio,Morrisville,Cary,31,Visita Ao Cliente,2016-12-14
+2016-12-15 14:20:00,12-15-2016 14:54,Negocio,Cary,Morrisville,106,Reunião,2016-12-15
+2016-12-17 15:38:00,12-17-2016 16:12,Negocio,Unknown Location,Unknown Location,48,Aeroporto/Viagem,2016-12-17
+2016-12-17 17:19:00,12-17-2016 17:59,Negocio,Unknown Location,Unknown Location,53,Parada Temporária,2016-12-17
+2016-12-18 13:03:00,12-18-2016 13:41,Negocio,Unknown Location,Unknown Location,49,Entregas,2016-12-18
+2016-12-18 16:38:00,12-18-2016 17:25,Negocio,Unknown Location,Unknown Location,102,Entregas,2016-12-18
+2016-12-18 20:35:00,12-18-2016 21:04,Negocio,Unknown Location,Unknown Location,92,Indefinido,2016-12-18
+2016-12-19 09:08:00,12-19-2016 9:36,Negocio,Unknown Location,Islamabad,77,Entregas,2016-12-19
+2016-12-19 10:15:00,12-19-2016 10:34,Negocio,Islamabad,Rawalpindi,59,Parada Temporária,2016-12-19
+2016-12-19 13:04:00,12-19-2016 13:08,Negocio,Rawalpindi,Unknown Location,7,Entregas,2016-12-19
+2016-12-19 13:24:00,12-19-2016 13:35,Negocio,Unknown Location,Unknown Location,13,Indefinido,2016-12-19
+2016-12-19 14:07:00,12-19-2016 14:15,Negocio,Unknown Location,Unknown Location,25,Indefinido,2016-12-19
+2016-12-19 14:18:00,12-19-2016 14:32,Negocio,Unknown Location,Unknown Location,53,Indefinido,2016-12-19
+2016-12-19 14:37:00,12-19-2016 14:50,Negocio,Unknown Location,Unknown Location,54,Indefinido,2016-12-19
+2016-12-19 15:09:00,12-19-2016 15:38,Negocio,Unknown Location,Rawalpindi,102,Visita Ao Cliente,2016-12-19
+2016-12-19 16:50:00,12-19-2016 17:09,Negocio,Rawalpindi,Islamabad,72,Visita Ao Cliente,2016-12-19
+2016-12-19 19:05:00,12-19-2016 19:17,Negocio,Islamabad,Unknown Location,22,Indefinido,2016-12-19
+2016-12-19 19:55:00,12-19-2016 20:30,Negocio,Unknown Location,Unknown Location,11,Reunião,2016-12-19
+2016-12-20 08:49:00,12-20-2016 9:24,Negocio,Unknown Location,Rawalpindi,12,Indefinido,2016-12-20
+2016-12-20 10:30:00,12-20-2016 10:48,Negocio,Rawalpindi,Rawalpindi,33,Entregas,2016-12-20
+2016-12-20 11:30:00,12-20-2016 12:17,Negocio,Rawalpindi,Unknown Location,194,Reunião,2016-12-20
+2016-12-20 13:14:00,12-20-2016 13:20,Negocio,Unknown Location,Unknown Location,17,Entregas,2016-12-20
+2016-12-20 13:54:00,12-20-2016 14:17,Negocio,Unknown Location,Islamabad,57,Parada Temporária,2016-12-20
+2016-12-20 16:14:00,12-20-2016 16:24,Negocio,Islamabad,Islamabad,18,Entregas,2016-12-20
+2016-12-20 16:56:00,12-20-2016 17:07,Negocio,Islamabad,Islamabad,14,Entregas,2016-12-20
+2016-12-20 18:47:00,12-20-2016 19:21,Negocio,Islamabad,Unknown Location,103,Visita Ao Cliente,2016-12-20
+2016-12-21 07:42:00,12-21-2016 8:10,Negocio,Unknown Location,Unknown Location,115,Reunião,2016-12-21
+2016-12-21 10:14:00,12-21-2016 10:30,Negocio,Unknown Location,Islamabad,49,Entregas,2016-12-21
+2016-12-21 11:35:00,12-21-2016 11:49,Negocio,Islamabad,Unknown Location,35,Alimentação,2016-12-21
+2016-12-21 12:51:00,12-21-2016 13:33,Negocio,Unknown Location,Unknown Location,162,Reunião,2016-12-21
+2016-12-21 15:38:00,12-21-2016 15:49,Negocio,Unknown Location,Unknown Location,2,Entregas,2016-12-21
+2016-12-21 15:55:00,12-21-2016 16:05,Negocio,Unknown Location,Islamabad,21,Entregas,2016-12-21
+2016-12-21 17:45:00,12-21-2016 17:54,Negocio,Islamabad,Islamabad,21,Reunião,2016-12-21
+2016-12-21 17:59:00,12-21-2016 18:31,Negocio,Islamabad,Unknown Location,72,Visita Ao Cliente,2016-12-21
+2016-12-21 19:49:00,12-21-2016 20:35,Negocio,Unknown Location,Rawalpindi,12,Reunião,2016-12-21
+2016-12-21 20:56:00,12-21-2016 23:42,Negocio,Rawalpindi,Unknown Location,103,Reunião,2016-12-21
+2016-12-22 15:40:00,12-22-2016 16:38,Negocio,Unknown Location,Unknown Location,323,Reunião,2016-12-22
+2016-12-22 17:04:00,12-22-2016 17:20,Negocio,Unknown Location,Unknown Location,53,Visita Ao Cliente,2016-12-22
+2016-12-22 17:27:00,12-22-2016 17:53,Negocio,Unknown Location,Unknown Location,116,Reunião,2016-12-22
+2016-12-22 17:56:00,12-22-2016 18:29,Negocio,Unknown Location,Unknown Location,232,Reunião,2016-12-22
+2016-12-22 18:31:00,12-22-2016 18:37,Negocio,Unknown Location,Unknown Location,32,Entregas,2016-12-22
+2016-12-22 18:38:00,12-22-2016 18:47,Negocio,Unknown Location,Unknown Location,123,Parada Temporária,2016-12-22
+2016-12-22 19:04:00,12-22-2016 19:50,Negocio,Unknown Location,Lahore,14,Reunião,2016-12-22
+2016-12-22 21:41:00,12-22-2016 21:53,Negocio,Lahore,Lahore,21,Alimentação,2016-12-22
+2016-12-22 23:27:00,12-22-2016 23:32,Negocio,Lahore,Lahore,21,Visita Ao Cliente,2016-12-22
+2016-12-23 09:21:00,12-23-2016 9:41,Negocio,Lahore,Lahore,3,Reunião,2016-12-23
+2016-12-23 11:33:00,12-23-2016 11:58,Negocio,Lahore,Unknown Location,62,Reunião,2016-12-23
+2016-12-23 14:15:00,12-23-2016 15:25,Negocio,Unknown Location,Unknown Location,96,Reunião,2016-12-23
+2016-12-23 16:23:00,12-23-2016 16:34,Negocio,Unknown Location,Unknown Location,13,Entregas,2016-12-23
+2016-12-23 17:34:00,12-23-2016 18:27,Negocio,Unknown Location,Lahore,71,Alimentação,2016-12-23
+2016-12-24 07:43:00,12-24-2016 8:04,Negocio,Lahore,Unknown Location,63,Alimentação,2016-12-24
+2016-12-24 09:19:00,12-24-2016 9:55,Negocio,Unknown Location,Lahore,107,Alimentação,2016-12-24
+2016-12-24 10:34:00,12-24-2016 10:53,Negocio,Lahore,Lahore,53,Alimentação,2016-12-24
+2016-12-24 12:51:00,12-24-2016 12:53,Negocio,Lahore,Lahore,16,Entregas,2016-12-24
+2016-12-24 13:08:00,12-24-2016 13:29,Negocio,Lahore,Lahore,36,Entregas,2016-12-24
+2016-12-24 17:12:00,12-24-2016 17:27,Negocio,Lahore,Lahore,17,Entregas,2016-12-24
+2016-12-24 19:12:00,12-24-2016 19:27,Negocio,Lahore,Lahore,29,Alimentação,2016-12-24
+2016-12-24 22:04:00,12-24-2016 22:09,Negocio,Lahore,Lahore,6,Entregas,2016-12-24
+2016-12-25 00:10:00,12-25-2016 0:14,Negocio,Lahore,Lahore,6,Entregas,2016-12-25
+2016-12-25 19:15:00,12-25-2016 19:26,Negocio,Lahore,Lahore,23,Alimentação,2016-12-25
+2016-12-25 21:58:00,12-25-2016 22:04,Negocio,Lahore,Lahore,23,Alimentação,2016-12-25
+2016-12-26 08:30:00,12-26-2016 8:41,Negocio,Lahore,Lahore,32,Alimentação,2016-12-26
+2016-12-26 09:05:00,12-26-2016 9:19,Negocio,Lahore,Lahore,62,Visita Ao Cliente,2016-12-26
+2016-12-26 10:15:00,12-26-2016 10:36,Negocio,Lahore,Lahore,77,Visita Ao Cliente,2016-12-26
+2016-12-26 11:29:00,12-26-2016 11:42,Negocio,Lahore,Lahore,38,Visita Ao Cliente,2016-12-26
+2016-12-26 13:09:00,12-26-2016 13:43,Negocio,Lahore,Unknown Location,79,Reunião,2016-12-26
+2016-12-27 07:02:00,12-27-2016 7:14,Negocio,Karchi,Karchi,49,Parada Temporária,2016-12-27
+2016-12-27 08:37:00,12-27-2016 8:59,Negocio,Karchi,Karchi,5,Alimentação,2016-12-27
+2016-12-27 12:53:00,12-27-2016 12:57,Negocio,Karchi,Karchi,6,Alimentação,2016-12-27
+2016-12-27 14:49:00,12-27-2016 15:03,Negocio,Karchi,Unknown Location,31,Visita Ao Cliente,2016-12-27
+2016-12-27 16:34:00,12-27-2016 16:58,Negocio,Unknown Location,Karchi,79,Reunião,2016-12-27
+2016-12-27 19:19:00,12-27-2016 19:50,Negocio,Karchi,Karchi,55,Visita Ao Cliente,2016-12-27
+2016-12-28 08:34:00,12-28-2016 9:06,Negocio,Karchi,Unknown Location,103,Alimentação,2016-12-28
+2016-12-28 11:42:00,12-28-2016 12:12,Negocio,Unknown Location,Karchi,104,Entregas,2016-12-28
+2016-12-28 13:53:00,12-28-2016 14:01,Negocio,Karchi,Karchi,2,Entregas,2016-12-28
+2016-12-28 15:04:00,12-28-2016 15:39,Negocio,Karchi,Unknown Location,85,Alimentação,2016-12-28
+2016-12-28 17:02:00,12-28-2016 17:16,Negocio,Unknown Location,Karchi,44,Entregas,2016-12-28
+2016-12-28 18:33:00,12-28-2016 18:56,Negocio,Karchi,Karchi,38,Entregas,2016-12-28
+2016-12-28 22:44:00,12-28-2016 23:18,Negocio,Karchi,Karchi,51,Entregas,2016-12-28
+2016-12-29 00:49:00,12-29-2016 1:06,Negocio,Karchi,Karchi,38,Entregas,2016-12-29
+2016-12-29 09:44:00,12-29-2016 10:07,Negocio,Karchi,Unknown Location,116,Alimentação,2016-12-29
+2016-12-29 11:28:00,12-29-2016 12:00,Negocio,Unknown Location,Karchi,119,Alimentação,2016-12-29
+2016-12-29 12:25:00,12-29-2016 12:33,Negocio,Karchi,Karchi,14,Entregas,2016-12-29
+2016-12-29 13:17:00,12-29-2016 13:24,Negocio,Karchi,Karchi,11,Entregas,2016-12-29
+2016-12-29 13:56:00,12-29-2016 14:11,Negocio,Karchi,Karchi,41,Aeroporto/Viagem,2016-12-29
+2016-12-29 14:42:00,12-29-2016 14:58,Negocio,Karchi,Karchi,61,Entre Escritórios,2016-12-29
+2016-12-29 15:05:00,12-29-2016 15:16,Negocio,Karchi,Karchi,13,Entregas,2016-12-29
+2016-12-29 18:59:00,12-29-2016 19:14,Negocio,Karchi,Unknown Location,3,Alimentação,2016-12-29
+2016-12-29 19:50:00,12-29-2016 20:10,Negocio,Unknown Location,Karchi,41,Visita Ao Cliente,2016-12-29
+2016-12-29 20:15:00,12-29-2016 20:45,Negocio,Karchi,Karchi,72,Reunião,2016-12-29
+2016-12-29 20:53:00,12-29-2016 21:42,Negocio,Karchi,Unknown Location,64,Indefinido,2016-12-29
+2016-12-29 23:14:00,12-29-2016 23:47,Negocio,Unknown Location,Karchi,129,Reunião,2016-12-29
+2016-12-30 10:15:00,12-30-2016 10:33,Negocio,Karchi,Karchi,28,Entregas,2016-12-30
+2016-12-30 11:31:00,12-30-2016 11:56,Negocio,Karchi,Karchi,29,Entregas,2016-12-30
+2016-12-30 15:41:00,12-30-2016 16:03,Negocio,Karchi,Karchi,46,Entregas,2016-12-30
+2016-12-30 16:45:00,12-30-2016 17:08,Negocio,Karchi,Karchi,46,Reunião,2016-12-30
+2016-12-30 23:06:00,12-30-2016 23:10,Negocio,Karchi,Karchi,8,Visita Ao Cliente,2016-12-30
+2016-12-31 01:07:00,12-31-2016 1:14,Negocio,Karchi,Karchi,7,Reunião,2016-12-31
+2016-12-31 13:24:00,12-31-2016 13:42,Negocio,Karchi,Unknown Location,39,Parada Temporária,2016-12-31
+2016-12-31 15:03:00,12-31-2016 15:38,Negocio,Unknown Location,Unknown Location,162,Reunião,2016-12-31
+2016-12-31 21:32:00,12-31-2016 21:50,Negocio,Katunayake,Gampaha,64,Parada Temporária,2016-12-31
+2016-12-31 22:08:00,12-31-2016 23:51,Negocio,Gampaha,Ilukwatta,482,Parada Temporária,2016-12-31
