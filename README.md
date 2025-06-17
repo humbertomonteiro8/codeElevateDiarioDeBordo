@@ -58,7 +58,7 @@ A análise é realizada a partir de um arquivo CSV contendo os dados brutos das 
 ├── 📄 main.py
 ├── 📄 README.md
 └── 📄 requirements.txt
-
+```
 ---
 
 ## 🏗️ Arquitetura Medalhão
@@ -106,7 +106,7 @@ O projeto segue a abordagem **Medallion Architecture**, dividida em três camada
    ```bash
    git clone https://github.com/seu-usuario/codeElevateDiarioDeBordo.git
    cd codeElevateDiarioDeBordo
-
+   
 2. Instale as dependências:
    ```bash
    pip install -r requirements.txt
