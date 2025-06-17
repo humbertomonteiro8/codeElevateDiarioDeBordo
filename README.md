@@ -1,6 +1,63 @@
-# 📘 Diário de Bordo – CodeElevate
+# 📊 Diário de Bordo - Análise de Corridas de Transporte Privado
 
-Este projeto tem como objetivo processar dados de um aplicativo de transporte privado e gerar uma tabela agregada com informações consolidadas sobre as corridas, aplicando a **Arquitetura Medalhão** como estrutura de dados.
+Este projeto tem como objetivo processar e analisar dados de um aplicativo de transporte privado, fornecendo insights sobre o uso diário do serviço. Através de transformações e agregações dos dados, buscamos entender padrões de uso, categorias de corridas e propósitos dos deslocamentos aplicando a **Arquitetura Medalhão** como estrutura de dados.
+
+---
+
+## 📌 Índice
+
+1. [Sobre o Projeto](#sobre-o-projeto)
+2. [Estrutura de Diretórios](#estrutura-de-diretórios)
+3. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+4. [Como Rodar o Projeto](#como-rodar-o-projeto)
+5. [Testes](#testes)
+6. [Licença](#licença)
+7. [Contribuições](#contribuições)
+8. [Autores](#autores)
+
+---
+
+## 📝 Sobre o Projeto
+
+O projeto visa gerar uma tabela agregada chamada `info_corridas_do_dia`, que contém informações diárias sobre as corridas realizadas, incluindo:
+
+- Quantidade total de corridas
+- Quantidade de corridas por categoria (Negócio e Pessoal)
+- Distâncias máximas, mínimas e médias percorridas
+- Quantidade de corridas com o propósito de "Reunião" e outras finalidades
+
+A análise é realizada a partir de um arquivo CSV contendo os dados brutos das corridas, com as seguintes colunas:
+
+- `DATA_INICIO`: Data e hora de início da corrida
+- `DATA_FIM`: Data e hora de término da corrida
+- `CATEGORIA`: Categoria da corrida (Negócio ou Pessoal)
+- `LOCAL_INICIO`: Local de início da corrida
+- `LOCAL_FIM`: Local de término da corrida
+- `PROPOSITO`: Propósito da corrida
+- `DISTANCIA`: Distância percorrida na corrida
+
+---
+
+## 📂 Estrutura de Diretórios
+
+📦 codeElevateDiarioDeBordo
+├── 📁 data
+│ ├── 📁 raw
+│ ├── 📁 processed
+│ └── 📁 gold
+├── 📁 docker-oracle
+├── 📁 src
+│ ├── 📄 data_loader.py
+│ ├── 📄 data_transformations.py
+│ ├── 📄 process_execution.py
+│ └── 📄 utils.py
+├── 📁 testes
+│ ├── 📄 test_data_loader.py
+│ ├── 📄 test_data_transformations.py
+│ └── 📄 test_process_execution.py
+├── 📄 main.py
+├── 📄 README.md
+└── 📄 requirements.txt
 
 ---
 
@@ -33,50 +90,42 @@ O projeto segue a abordagem **Medallion Architecture**, dividida em três camada
 
 ---
 
-## 🧰 Estrutura do Projeto
-
-codeElevateDiarioDeBordo/
-│
-├── data/
-│ ├── raw/ # Camada Bronze
-│ ├── processed/ # Camada Silver
-│ └── gold/ # Camada Gold
-│
-├── src/ # Scripts principais
-│ ├── data_loader.py
-│ ├── data_transformations.py
-│ ├── process_execution.py
-│ └── utils.py
-│
-├── main.py # Script de execução
-├── requirements.txt
-└── README.md # Você está aqui
-
-
----
 
 ## 🚀 Execução
 
-### Requisitos
-- Python 3.9+
-- Oracle Database XE configurado localmente (ou adaptado)
-- Instale os pacotes:
-```bash
-pip install -r requirements.txt
+### Pré-requisitos
 
-```bash
-python main.py
+- Python 3.8 ou superior
+- Docker (opcional, para ambiente isolado)
+- Oracle Database (configurado conforme necessidade)
 
-Esse comando irá:
+### Instalação / Configuração
 
-    1.Carregar os dados da camada bronze.
+1. Clone o repositório:
 
-    2.Realizar o tratamento e salvar como silver.
+   ```bash
+   git clone https://github.com/seu-usuario/codeElevateDiarioDeBordo.git
+   cd codeElevateDiarioDeBordo
 
-    3.Agregar os dados e salvar na camada gold.
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
 
-    4.Inserir os dados agregados no banco Oracle.
+3. (Opcional) Configure o Docker para executar o Oracle Database.
+   ```bash
+   cd docker-oracle
+   docker compose up -d
+
+### Execução do projeto
+1. Para processar os dados e gerar a tabela agregada:
+    ```bash
+    python main.py
 
 ✅ Testes
-Os testes automatizados estão no diretório testes/ e cobrem os módulos de carregamento, transformação e execução do pipeline.
+1. Os testes estão localizados na pasta testes e podem ser executados utilizando o pytest:
+    ```bash
+    pytest testes/
+
+👨‍💻 Autor
+Humberto Monteiro da Cruz - Desenvolvedor Principal - [humbertomonteiro8](https://github.com/humbertomonteiro8)
 
